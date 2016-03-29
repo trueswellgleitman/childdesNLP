@@ -102,7 +102,7 @@ public class ChildSpeech {
             Tree tree = sentence.get(TreeAnnotation.class);
             //TregexPattern patternMW = TregexPattern.compile("VP([ >># VB | >># VBP | >># VBD] <<" + value[0] +
              //       ")");
-             TregexPattern patternMW = TregexPattern.compile("VP  [ <# VB | <# VBP | <# VBD] & <<" + value[0]);
+            TregexPattern patternMW = TregexPattern.compile(" VP  [ <# VB | <# VBP | <# VBD] & <<" + value[0]);
             TregexMatcher matcher = patternMW.matcher(tree); 
             while (matcher.findNextMatchingNode()) { 
                 Tree match = matcher.getMatch(); 
@@ -113,11 +113,23 @@ public class ChildSpeech {
                 sb.append(",");
                 sb.append(tempString);
                 sb.append(",");
+                                if(match.preTerminalYield().size() == 1)
+                {
+                    for(Label l: tree.preTerminalYield())
+                    {
+                                        sb.append(l.toString());
+                sb.append("&");
+                    }
+                }
+                                else
+                                {
             for(Label l: match.preTerminalYield())
             {
+
                 sb.append(l.toString());
                 sb.append("&");
             }
+                                }
             sb.append(",");
             sb.append(match.toString());
             //sb.append(",");
@@ -136,8 +148,8 @@ public class ChildSpeech {
       //SemanticGraph dependencies = sentence.get(CollapsedCCProcessedDependenciesAnnotation.class);
     }
 
-    Map<Integer, edu.stanford.nlp.dcoref.CorefChain> graph = 
-      document.get(CorefChainAnnotation.class);
+    //Map<Integer, edu.stanford.nlp.dcoref.CorefChain> graph = 
+      //document.get(CorefChainAnnotation.class);
 
     }
     pw.write(sb.toString());
