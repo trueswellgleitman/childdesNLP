@@ -1,0 +1,1246 @@
+22|1|1.0|---|
+22|1|2.0|---|
+22|1|3.0||
+22|1|4.0|---|
+22|1|5.0||
+22|1|6.0|---|
+22|1|7.0||
+22|1|8.0|play with mommy's hand.|v|play prep|with n:prop|Mommy^n:prop|Mommy-POSS^ n|hand .
+22|1|9.0|no.|co|no .
+"22|1|10.0|no, no, no.|co|no co|no co|no ."
+22|1|11.0|nope no no.|co|nope co|no co|no .
+22|1|12.0||
+"22|1|13.0|yeah, she likes my phone.|co|yeah pro|she v|like-3S pro:poss:det|my n|phone ."
+22|1|14.0||
+22|1|15.0|---|
+22|1|16.0|what do you want?|pro:wh|what aux|do pro|you v|want ?
+22|1|17.0|this?|pro:dem|this ?
+22|1|18.0||
+22|1|19.0|yeah.|co|yeah .
+22|1|20.0|that's not really a toy.|pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ neg|not adv:adj|real-LY det|a n|toy .
+22|1|21.0|that's mama's.|pro:dem|that~v|be&3S n:prop|Mama^n:prop|Mama-POSS^ .
+22|1|22.0|thanks Zevy.|co|thanks n:prop|Zevy .
+22|1|23.0|she always figures out how to open things.|pro|she adv|always v|figure-3S ptl|out adv:wh|how inf|to v|open n|thing-PL .
+22|1|24.0|yeah.|co|yeah .
+22|1|25.0|pen?|n|pen ?
+22|1|26.0||
+22|1|27.0|pen.|n|pen .
+22|1|28.0|good!|co|good !
+22|1|29.0||
+22|1|30.0|---|
+22|1|31.0|---|
+22|1|32.0|what is that?|pro:wh|what v|be&3S pro:dem|that ?
+22|1|33.0|I don't know.|pro|I aux|do~neg|not v|know .
+22|1|34.0|your stickers.|pro:poss:det|your n|sticker-PL .
+22|1|35.0|is that Zevy's stickers?|v|be&3S det|that n:prop|Zevy~v|be&3S n|sticker-PL ?
+"22|1|36.0|oh, is it yours, Sam?|v|be&3S pro|it pro:poss|yours n:prop|Sam ?"
+22|1|37.0||
+22|1|38.0|I'm not opening that.|pro|I~aux|be&1S neg|not part|open-PROG pro:dem|that .
+22|1|39.0|no.|co|no .
+22|1|40.0|you want to go play with some toys?|pro|you aux|want inf|to v|go v|play prep|with qn|some n|toy-PL ?
+22|1|41.0||
+22|1|42.0|yeah?|co|yeah ?
+22|1|43.0||
+22|1|44.0||
+22|1|45.0||
+22|1|46.0|yes ###.|co|yes .
+22|1|47.0|who's pen is that?|pro:wh|who~v|be&3S^pro:wh|who~v|have&3S^ n|pen v|be&3S pro:dem|that ?
+22|1|48.0||
+22|1|49.0|thank+you.|int|+int|thank+int|you .
+22|1|50.0||
+22|1|51.0|Zevy's helmet?|n:prop|Zevy^n:prop|Zevy-POSS^ n|helmet ?
+22|1|52.0||
+22|1|53.0|hmmm.|co|hmmm .
+22|1|54.0|yeah.|co|yeah .
+22|1|55.0|you say --|pro|you v|say +...
+22|1|56.0|shh.|co|shh .
+22|1|57.0|you want some of Zevy's cereal?|pro|you v|want pro:indef|some prep|of n:prop|Zevy^n:prop|Zevy-POSS^ n|cereal ?
+22|1|58.0|you want him to give you one piece?|pro|you v|want pro|him inf|to v|give pro|you det:num|one n|piece ?
+22|1|59.0|can she have a piece?|aux|can pro|she v|have det|a n|piece ?
+22|1|60.0|it has to have milk on it.|pro|it aux|have&3S inf|to v|have n|milk prep|on pro|it .
+"22|1|61.0|she can have milk now,|pro|she aux|can aux|have v|milk adv|now +..."
+22|1|62.0|but remember when she was a baby?|conj:coo|but v|remember conj:subor|when pro|she v|be&PAST&13S det|a n|baby ?
+22|1|63.0|and she wasn't drinking milk?|conj:coo|and pro|she v|be&PAST&13S~neg|not part|drink-PROG n|milk ?
+22|1|64.0|is that good?|v|be&3S det|that adj|good ?
+22|1|65.0|is that good?|v|be&3S det|that adj|good ?
+22|1|66.0|yeah.|co|yeah .
+22|1|67.0|---|
+22|1|68.0|oop ba!|int|oop ?|ba !
+22|1|69.0|uh oh!|
+22|1|70.0||
+22|1|71.0|say more?|v|say qn|more ?
+22|1|72.0|can you tell Zevy more?|aux|can pro|you v|tell n:prop|Zevy adv|more ?
+22|1|73.0||
+22|1|74.0|what?|pro:wh|what ?
+22|1|75.0|Zevy|n:prop|Zevy .
+"22|1|76.0|Zevy, she asked you for more.|n:prop|Zevy pro|she v|ask-PAST pro|you prep|for qn|more ."
+"22|1|77.0|sweetie, can she have another one?|n|sweet-DIM aux|can pro|she v|have det|another pro:indef|one ?"
+22|1|78.0|that's --|pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ +...
+22|1|79.0|lovely.|adj|lovely .
+22|1|80.0|--|
+22|1|81.0|---|
+22|1|82.0||
+22|1|83.0||
+22|1|84.0|what?|pro:wh|what ?
+22|1|85.0|she did?|pro|she aux|do&PAST ?
+22|1|86.0|I didn't hear her.|pro|I aux|do&PAST~neg|not v|hear pro|her .
+22|1|87.0||
+22|1|88.0|did you say Miriam and she repeated it?|aux|do&PAST pro|you v|say n:prop|Miriam conj:coo|and pro|she v|repeat-PAST pro|it ?
+22|1|89.0|---|
+22|1|90.0|--|
+22|1|91.0|---|
+22|1|92.0|---|
+"22|1|93.0|yeah, yeah.|co|yeah co|yeah ."
+22|1|94.0|---|
+22|1|95.0|why don't we go and play with the real toys?|adv:wh|why aux|do~neg|not pro|we v|go conj:coo|and v|play prep|with det|the adj|real n|toy-PL ?
+22|1|96.0|---|
+22|1|97.0|---|
+22|1|98.0|---|
+22|1|99.0||
+22|1|100.0|---|
+22|1|101.0|---|
+22|1|102.0|what do you want?|pro:wh|what aux|do pro|you v|want ?
+22|1|103.0||
+22|1|104.0|cereal?|n|cereal ?
+22|1|105.0||
+"22|1|106.0|no, that's Zevy's cereal.|co|no pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ n:prop|Zevy^n:prop|Zevy-POSS^ n|cereal ."
+22|1|107.0|here.|co|here .
+22|1|108.0|I'll give you your own cereal.|pro|I~aux|will v|give pro|you pro:poss:det|your adj|own n|cereal .
+22|1|109.0|you want your own?|pro|you v|want pro:poss:det|your adj|own ?
+22|1|110.0|---|
+22|1|111.0|here.|co|here .
+22|1|112.0|want these?|v|want pro:dem|these ?
+"22|1|113.0|oh, oh!|"
+22|1|114.0|Whooo!|n:prop|Whooo !
+"22|1|115.0|ok, okay.|co|okay co|okay ."
+"22|1|116.0|oh, oh.|"
+22|1|117.0|Shhh.|n:prop|Shhh .
+22|1|118.0|oh.|
+22|1|119.0|that hurts.|pro:dem|that v|hurt-3S .
+22|1|120.0|oh.|
+22|1|121.0|shh.|co|shh .
+22|1|122.0|Shhh.|n:prop|Shhh .
+22|1|123.0|oh.|
+22|1|124.0|you bump ###?|pro|you v|bump ?
+22|1|125.0|you bump ###?|pro|you v|bump ?
+"22|1|126.0|oh,|"
+"22|1|127.0|oh, Shhh.|n:prop|Shhh ."
+22|1|128.0|that hurt badly.|pro:dem|that v|hurt&ZERO adv:adj|bad-LY .
+"22|1|129.0|oh, that hurt badly.|pro:dem|that v|hurt&ZERO adv:adj|bad-LY ."
+22|1|130.0|--|
+22|1|131.0|--|
+22|1|132.0|---|
+22|1|133.0|---|
+22|1|134.0|yeah.|co|yeah .
+22|1|135.0|shh. Shh.|co|shh . n:prop|Shh .
+22|1|136.0|shh.|co|shh .
+"22|1|137.0|oh, that hurt.|pro:dem|that n|hurt ."
+22|1|138.0|I know.|pro|I v|know .
+"22|1|139.0|yes, I know.|co|yes pro|I v|know ."
+"22|1|140.0|oh, yeah.|co|yeah ."
+22|1|141.0|it hurt.|pro|it v|hurt&ZERO .
+22|1|142.0|oh.|
+22|1|143.0|Shhh.|n:prop|Shhh .
+22|1|144.0|---|
+"22|1|145.0|yeah, yeah.|co|yeah co|yeah ."
+22|1|146.0|you okay?|pro|you co|okay ?
+22|1|147.0|can I see your kappie?|aux|can pro|I v|see pro:poss:det|your ?|kappie ?
+22|1|148.0|is your keppie okay?|v|be&3S pro:poss:det|your ?|keppie co|okay ?
+22|1|149.0||
+"22|1|150.0|oh, your cereal.|pro:poss:det|your n|cereal ."
+22|1|151.0|right.|co|right .
+22|1|152.0|that's more important.|pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ adv|more adj|important .
+22|1|153.0||
+"22|1|154.0|thank+you, she says.|int|+int|thank+int|you pro|she v|say-3S ."
+22|1|155.0|thank+you.|int|+int|thank+int|you .
+22|1|156.0||
+22|1|157.0|shh.|co|shh .
+"22|1|158.0|oh, yeah.|co|yeah ."
+"22|1|159.0|oh, yeah, I know.|co|yeah pro|I v|know ."
+"22|1|160.0|oh, I know.|pro|I v|know ."
+22|1|161.0|it hurts.|pro|it v|hurt-3S .
+22|1|162.0|Anielle!|n:prop|Anielle !
+22|1|163.0|it hurts.|pro|it v|hurt-3S .
+22|1|164.0|Shhh!|n:prop|Shhh !
+22|1|165.0|what do you want?|pro:wh|what aux|do pro|you v|want ?
+22|1|166.0|what do you want?|pro:wh|what aux|do pro|you v|want ?
+22|1|167.0||
+22|1|168.0|you want a something?|pro|you v|want det|a pro:indef|something ?
+22|1|169.0|you want something?|pro|you v|want pro:indef|something ?
+22|1|170.0|you want a bottle?|pro|you v|want det|a n|bottle ?
+22|1|171.0|you want a bottle?|pro|you v|want det|a n|bottle ?
+"22|1|172.0|yeah, will that give you comfort?|co|yeah aux|will pro:dem|that v|give pro|you v|comfort ?"
+22|1|173.0|so sorry.|adv:int|so adj|sorry .
+22|1|174.0||
+22|1|175.0|---|
+22|1|176.0|---|
+"22|1|177.0|yes, will this make you feel better?|co|yes aux|will pro:dem|this v|make pro|you n|feel adv|good&CP ?"
+22|1|178.0|Zevy.|n:prop|Zevy .
+"22|1|179.0|oh, yeah, she's crabby.|co|yeah pro|she~v|be&3S adj|crabby ."
+22|1|180.0|she hit her head.|pro|she v|hit&ZERO pro|her v|head .
+22|1|181.0|that's why.|pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ adv:wh|why .
+22|1|182.0||
+22|1|183.0|daddy?|n:prop|Daddy ?
+22|1|184.0|---|
+22|1|185.0|---|
+"22|1|186.0|here, Anielle.|co|here n:prop|Anielle ."
+22|1|187.0|Anielle.|n:prop|Anielle .
+22|1|188.0|###|
+"22|1|189.0|Anielle, bring the bottle to mama.|n:prop|Anielle v|bring det|the n|bottle prep|to n:prop|Mama ."
+22|1|190.0|go to mama.|v|go prep|to n:prop|Mama .
+22|1|191.0|bring the bottle to mama.|v|bring det|the n|bottle prep|to n:prop|Mama .
+"22|1|192.0|take it, Anielle.|v|take pro|it n:prop|Anielle ."
+22|1|193.0|bring the bottle to mama and I'll rock you.|v|bring det|the n|bottle prep|to n:prop|Mama conj:coo|and pro|I~aux|will v|rock pro|you .
+22|1|194.0|want me to rock you?|aux|want pro|me inf|to v|rock pro|you ?
+22|1|195.0|---|
+22|1|196.0|you want me to rock you?|pro|you v|want pro|me inf|to v|rock pro|you ?
+22|1|197.0|---|
+22|1|198.0|yeah.|co|yeah .
+22|1|199.0|---|
+22|1|200.0|---|
+22|1|201.0|---|
+22|1|202.0|---|
+22|1|203.0|---|
+22|1|204.0|---|
+22|1|205.0|I hate those chairs.|pro|I v|hate det|those n|chair-PL .
+22|1|206.0|yeah.|co|yeah .
+22|1|207.0|Kappy okay?|n:prop|Kappy co|okay ?
+"22|1|208.0|yeah, she has your fall on video+tape.|co|yeah pro|she v|have&3S pro:poss:det|your n|fall prep|on n|+n|video+n|tape ."
+22|1|209.0||
+22|1|210.0|you got your bottle?|pro|you v|get&PAST^v|got^ pro:poss:det|your n|bottle ?
+22|1|211.0|your comfort?|pro:poss:det|your n|comfort ?
+22|1|212.0|yeah.|co|yeah .
+"22|1|213.0|we don't have blankets, we have bottles in our family.|pro|we aux|do~neg|not aux|have v|blanket-3S pro|we v|have n|bottle-PL prep|in pro:poss:det|our n|family ."
+22|1|214.0|your kappy okay?|pro:poss:det|your ?|kappy co|okay ?
+22|1|215.0|a little bump?|det|a adj|little n|bump ?
+22|1|216.0|yeah.|co|yeah .
+22|1|217.0|you want to make rocking?|pro|you aux|want inf|to v|make part|rock-PROG ?
+22|1|218.0|should I rock you?|aux|should pro|I v|rock pro|you ?
+22|1|219.0|oh.|
+22|1|220.0|should I rock you?|aux|should pro|I v|rock pro|you ?
+22|1|221.0|---|
+22|1|222.0|---|
+22|1|223.0|---|
+22|1|224.0|---|
+22|1|225.0|---|
+22|1|226.0|should we sell the house?|aux|should pro|we v|sell det|the n|house ?
+22|1|227.0|huh?|co|huh ?
+22|1|228.0|are you okay?|aux|be&PRES pro|you co|okay ?
+22|1|229.0|you want to go play?|pro|you aux|want inf|to v|go n|play ?
+22|1|230.0|where's daddy?|adv:wh|where~v|be&3S n:prop|Daddy ?
+22|1|231.0|is that your Johnny?|v|be&3S pro:dem|that pro:poss:det|your n:prop|Johnny ?
+22|1|232.0|say hi to Johnny?|v|say co|hi prep|to n:prop|Johnny ?
+22|1|233.0|what are you doing?|pro:wh|what v|be&PRES pro|you part|do-PROG ?
+22|1|234.0|do you just want to lay back?|aux|do pro|you adv:int|just aux|want inf|to v|lay n|back ?
+22|1|235.0|lay on the kappy?|adj|lay prep|on det|the ?|kappy ?
+22|1|236.0||
+22|1|237.0|what you doing?|pro:wh|what pro|you part|do-PROG ?
+22|1|238.0|funny girl.|adj|funny n|girl .
+22|1|239.0|are you mama's funny girl?|v|be&PRES pro|you n:prop|Mama^n:prop|Mama-POSS^n:prop|Mama~v|be&3S^n:prop|Mama~v|have&3S^ adj|funny n|girl ?
+22|1|240.0|---|
+22|1|241.0|---|
+22|1|242.0|it's okay.|pro|it~v|be&3S adj|okay .
+22|1|243.0|you want to go play with Zevy?|pro|you aux|want inf|to v|go v|play prep|with n:prop|Zevy ?
+22|1|244.0|yeah?|co|yeah ?
+22|1|245.0|you want to go play with Zevy?|pro|you aux|want inf|to v|go v|play prep|with n:prop|Zevy ?
+22|1|246.0|you want to go play?|pro|you aux|want inf|to v|go n|play ?
+22|1|247.0|---|
+22|1|248.0|Anielle wants to go play with Zevy.|n:prop|Anielle aux|want-3S inf|to v|go v|play prep|with n:prop|Zevy .
+22|1|249.0||
+"22|1|250.0|Zevy, Zevy!|n:prop|Zevy n:prop|Zevy !"
+22|1|251.0|it will be taken away if it's used as a weapon.|pro|it aux|will v|be part|take&PERF adv|away conj:subor|if pro|it~aux|be&3S^pro|it~aux|do&3S^pro|it~aux|have&3S^ v|use-PAST prep|as det|a n|weapon .
+22|1|252.0|ok|co|okay .
+22|1|253.0|that doesn't have the batteries in it anymore.|pro:dem|that aux|do&3S~neg|not v|have det|the n|battery-PL prep|in pro|it adv|anymore .
+22|1|254.0|I don't think.|pro|I aux|do~neg|not v|think .
+22|1|255.0|want to play with your toy?|aux|want inf|to v|play ptl|with pro:poss:det|your n|toy ?
+22|1|256.0|should we turn it on?|aux|should pro|we v|turn pro|it ptl|on ?
+22|1|257.0|yeah!|co|yeah !
+22|1|258.0|you found the button.|pro|you v|find&PAST det|the n|button .
+"22|1|259.0|where's the butter+fly, Anielle?|adv:wh|where~v|be&3S det|the n|+n|butter+n|fly n:prop|Anielle ?"
+22|1|260.0|where's the butter+fly?|adv:wh|where~v|be&3S det|the n|+n|butter+n|fly ?
+22|1|261.0|do you see a butter+fly?|aux|do pro|you v|see det|a n|+n|butter+n|fly ?
+22|1|262.0|on top?|prep|on n|top ?
+22|1|263.0||
+22|1|264.0|do you see one?|aux|do pro|you v|see pro:indef|one ?
+22|1|265.0|I think we took them out.|pro|I v|think pro|we v|take&PAST pro|them adv:loc|out .
+22|1|266.0|do you know why we took them out?|aux|do pro|you v|know adv:wh|why pro|we v|take&PAST pro|them adv:loc|out ?
+"22|1|267.0|cause there was, like, a loose connection.|n|cause adv:loc|there v|be&PAST&13S prep|like det|a adj|loose n|connection ."
+22|1|268.0|it just kept playing and playing.|pro|it adv:int|just aux|keep&PAST part|play-PROG conj:coo|and part|play-PROG .
+22|1|269.0|and playing.|conj:coo|and part|play-PROG .
+22|1|270.0|and it gave us a heart -- a headache.|conj:coo|and pro|it v|give&PAST pro|us det|a n|heart det|a n|headache .
+22|1|271.0|ok.|co|okay .
+22|1|272.0|you can try it again and see if it's broken still.|pro|you aux|can v|try pro|it adv|again conj:coo|and v|see conj:subor|if pro|it~aux|be&3S^pro|it~aux|do&3S^pro|it~aux|have&3S^ part|break&PERF n|still .
+22|1|273.0|what?|pro:wh|what ?
+22|1|274.0||
+22|1|275.0|are you imitating a butter+fly?|aux|be&PRES pro|you part|imitate-PROG det|a n|+n|butter+n|fly ?
+22|1|276.0||
+22|1|277.0||
+22|1|278.0||
+"22|1|279.0|no, you don't need to watch The_Wizard_Of_Oz now.|co|no pro|you aux|do~neg|not aux|need inf|to v|watch n:prop|The_Wizard_Of_Oz adv|now ."
+22|1|280.0|channel Eleven is what you get to watch in the morning|v|channel n:prop|Eleven v|be&3S pro:wh|what pro|you aux|get inf|to v|watch prep|in det|the n|morning .
+"22|1|281.0|oh, man!|n|man !"
+22|1|282.0|you know Kaiu and Zevy are the same age?|pro|you v|know n:prop|Kaiu conj:coo|and n:prop|Zevy v|be&PRES det|the adj|same n|age ?
+22|1|283.0|go where?|v|go adv:wh|where ?
+22|1|284.0|to real school?|prep|to adj|real n|school ?
+"22|1|285.0|hey, Zevy.|co|hey n:prop|Zevy ."
+22|1|286.0|is Kaiu in pre+school?|v|be&3S n:prop|Kaiu prep|in ?|pre+school ?
+22|1|287.0||
+22|1|288.0||
+22|1|289.0||
+22|1|290.0|good girl!|adj|good n|girl !
+22|1|291.0|good girl!|adj|good n|girl !
+"22|1|292.0|I can't get this rethreaded, Zevy.|pro|I aux|can~neg|not v|get pro:dem|this re#v|thread-PAST n:prop|Zevy ."
+22|1|293.0||
+22|1|294.0||
+22|1|295.0|Zevy!|n:prop|Zevy !
+"22|1|296.0|this is a pain, Zevy|pro:dem|this v|be&3S det|a n|pain n:prop|Zevy ."
+22|1|297.0||
+22|1|298.0|I don't think I can do it right now.|pro|I aux|do~neg|not v|think pro|I aux|can v|do pro|it adv|right adv|now .
+22|1|299.0|what is that?|pro:wh|what v|be&3S pro:dem|that ?
+22|1|300.0||
+"22|1|301.0|a butter+fly, she said.|det|a n|+n|butter+n|fly pro|she v|say&PAST ."
+22|1|302.0||
+22|1|303.0|butter+fly.|n|+n|butter+n|fly .
+22|1|304.0|very good!|adv:int|very adj|good !
+22|1|305.0||
+22|1|306.0||
+22|1|307.0||
+22|1|308.0|the puppets?|det|the n|puppet-PL ?
+22|1|309.0|wow!|co|wow !
+22|1|310.0|is that a kitty?|v|be&3S pro:dem|that det|a n|kitty ?
+22|1|311.0||
+"22|1|312.0|Zevy, what's the blue one supposed to be?|n:prop|Zevy pro:wh|what~v|be&3S det|the adj|blue pro:indef|one aux|supposed inf|to v|be ?"
+22|1|313.0||
+22|1|314.0||
+"22|1|315.0|no, not in here|co|no neg|not prep|in adv:loc|here ."
+22|1|316.0|you can do it in the other room.|pro|you aux|can v|do pro|it prep|in det|the qn|other n|room .
+22|1|317.0|---|
+"22|1|318.0|what is that supposed to be, Zevy?|pro:wh|what v|be&3S pro:dem|that aux|supposed inf|to v|be n:prop|Zevy ?"
+22|1|319.0|the blue one?|det|the adj|blue pro:indef|one ?
+22|1|320.0|---|
+22|1|321.0|that's supposed to be a dinosaur?|pro:dem|that~aux|be&3S^pro:dem|that~aux|do&3S^pro:dem|that~aux|have&3S^ aux|supposed inf|to v|be det|a n|dinosaur ?
+22|1|322.0|---|
+22|1|323.0|---|
+22|1|324.0|---|
+22|1|325.0|---|
+22|1|326.0|ok.|co|okay .
+22|1|327.0|---|
+22|1|328.0|---|
+22|1|329.0|---|
+22|1|330.0|---|
+22|1|331.0|---|
+22|1|332.0|---|
+22|1|333.0||
+22|1|334.0|---|
+22|1|335.0||
+"22|1|336.0|make nice, Anielle.|v|make adv|nice n:prop|Anielle ."
+22|1|337.0|make nice.|v|make adv|nice .
+22|1|338.0|---|
+22|1|339.0|---|
+22|1|340.0||
+22|1|341.0|cause one of them has to leave now.|v|cause pro:indef|one prep|of pro|them aux|have&3S inf|to v|leave adv|now .
+22|1|342.0|we're not getting the Toyota started.|pro|we~aux|be&PRES neg|not aux|get-PROG det|the n:prop|Toyota v|start-PAST .
+22|1|343.0|the Toyota is in the ###.|det|the n:prop|Toyota v|be&3S prep|in det|the .
+22|1|344.0|the Toyota?|det|the n:prop|Toyota ?
+22|1|345.0|the red car?|det|the adj|red n|car ?
+22|1|346.0|that's the car we are selling.|pro:dem|that~v|be&3S det|the n|car pro|we v|be&PRES adj|selling .
+22|1|347.0||
+22|1|348.0|no.|co|no .
+22|1|349.0|cause we don't --|v|cause pro|we aux|do~neg|not +...
+22|1|350.0|you're right.|pro|you~v|be&PRES adj|right .
+22|1|351.0|no.|co|no .
+"22|1|352.0|on the Mazda, it was worth fixing.|prep|on det|the n:prop|Mazda pro|it v|be&PAST&13S n|worth aux|fix-PROG ."
+22|1|353.0|the Toyota we don't like.|det|the n:prop|Toyota pro|we aux|do~neg|not v|like .
+22|1|354.0|Larry.|n:prop|Larry .
+22|1|355.0|he doesn't like the car anyway.|pro|he aux|do&3S~neg|not v|like det|the n|car adv|anyway .
+22|1|356.0|it's too low down to the ground.|pro|it~v|be&3S^pro|it~v|have&3S^ adv:int|too adj|low adv:loc|down prep|to det|the n|ground .
+22|1|357.0|---|
+22|1|358.0||
+22|1|359.0||
+22|1|360.0|baby?|n|baby ?
+22|1|361.0|you saw a baby?|pro|you v|see&PAST det|a n|baby ?
+22|1|362.0|is that the baby?|v|be&3S pro:dem|that det|the n|baby ?
+22|1|363.0|where was the baby?|adv:wh|where v|be&PAST&13S det|the n|baby ?
+22|1|364.0||
+22|1|365.0||
+22|1|366.0|nose!|n|nose !
+22|1|367.0|where's Anielle's nose?|adv:wh|where~v|be&3S^adv:wh|where~v|have&3S^ n:prop|Anielle^n:prop|Anielle-POSS^ n|nose ?
+22|1|368.0|yeah!|co|yeah !
+22|1|369.0|good girl.|adj|good n|girl .
+22|1|370.0|can you say good girl?|aux|can pro|you v|say adj|good n|girl ?
+22|1|371.0|showed her nose.|v|show-PAST pro:poss:det|her n|nose .
+22|1|372.0|where's Sam's nose?|adv:wh|where~v|be&3S^adv:wh|where~v|have&3S^ n:prop|Sam^n:prop|Sam-POSS^ n|nose ?
+22|1|373.0|Anielle?|n:prop|Anielle ?
+22|1|374.0|do you know?|aux|do pro|you v|know ?
+22|1|375.0|where's Zevy's nose?|adv:wh|where~v|be&3S^adv:wh|where~v|have&3S^ n:prop|Zevy^n:prop|Zevy-POSS^ n|nose ?
+22|1|376.0|whoa.|co|whoa .
+22|1|377.0|are you going to fall again?|aux|be&PRES pro|you aux|go-PROG inf|to v|fall adv|again ?
+22|1|378.0|we'll have twelve falls on tape in one day!|pro|we~aux|will v|have det:num|twelve n|fall-PL prep|on n|tape prep|in pro:indef|one n|day !
+22|1|379.0|this is very frustrating.|pro:dem|this v|be&3S adv:int|very adj|frustrating .
+22|1|380.0|tell her no!|v|tell pro|her co|no !
+22|1|381.0|no biting!|neg|no part|bit-PROG^part|bite-PROG^ !
+22|1|382.0|say no|v|say co|no .
+"22|1|383.0|you just have to tell her, Zevy.|pro|you adv:int|just aux|have inf|to v|tell pro:poss:det|her n:prop|Zevy ."
+22|1|384.0|like I said to you.|conj:subor|like pro|I v|say&PAST prep|to pro|you .
+22|1|385.0|you tell her no.|pro|you v|tell pro|her co|no .
+22|1|386.0|you sound very serious.|pro|you v|sound adv:int|very adj|serious .
+22|1|387.0|and say no when she bites you.|conj:coo|and v|say qn|no conj:subor|when pro|she v|bite-3S pro|you .
+22|1|388.0||
+"22|1|389.0|yeah, I think I got it.|co|yeah pro|I v|think pro|I v|get&PAST^v|got^ pro|it ."
+"22|1|390.0|I did it, I did it.|pro|I aux|do&PAST pro|it pro|I v|do&PAST pro|it ."
+"22|1|391.0|Zevy, I think I did it.|n:prop|Zevy pro|I v|think pro|I v|do&PAST pro|it ."
+22|1|392.0|Hoorah for mama!|n:prop|Hoorah prep|for n:prop|Mama !
+22|1|393.0|Hoorah for mama!|n:prop|Hoorah prep|for n:prop|Mama !
+22|1|394.0|someone in the stands is yelling Hurrah for mama!|pro:indef|someone prep|in det|the n|stand-PL aux|be&3S part|yell-PROG n:prop|Hurrah prep|for n:prop|Mama !
+22|1|395.0|ah ah Anielle!|n:prop|Anielle !
+22|1|396.0|no biting!|neg|no part|bit-PROG^part|bite-PROG^ !
+22|1|397.0|no!|co|no !
+22|1|398.0|you make nice!|pro|you v|make adv|nice !
+22|1|399.0|no biting.|neg|no part|bit-PROG^part|bite-PROG^ .
+22|1|400.0||
+22|1|401.0|that's Zevy's violin.|pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ n:prop|Zevy^n:prop|Zevy-POSS^ n|violin .
+"22|1|402.0|here, let me show you --|adv:loc|here v|let&ZERO pro|me v|show pro|you +..."
+22|1|403.0|here.|co|here .
+"22|1|404.0|here, we do your toy.|co|here pro|we v|do pro:poss:det|your n|toy ."
+22|1|405.0|that's Zevy's toy.|pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ n:prop|Zevy~v|be&3S n|toy .
+22|1|406.0|---|
+22|1|407.0||
+"22|1|408.0|car, right.|n|car co|right ."
+22|1|409.0||
+22|1|410.0|want to take your toys off?|aux|want inf|to v|take pro:poss:det|your n|toy-PL adv|off ?
+22|1|411.0|take the rings off.|v|take det|the n|ring-PL adv|off .
+22|1|412.0|take the rings off?|v|take det|the n|ring-PL adv|off ?
+22|1|413.0|can you take these off?|aux|can pro|you v|take pro:dem|these ptl|off ?
+22|1|414.0|you want to put them on?|pro|you aux|want inf|to v|put&ZERO pro|them ptl|on ?
+22|1|415.0|here.|co|here .
+22|1|416.0|put them on.|v|put&ZERO pro|them ptl|on .
+"22|1|417.0|that's the one, right one.|pro:dem|that~v|be&3S det|the pro:indef|one co|right pro:indef|one ."
+22|1|418.0|why isn't it ringing?|adv:wh|why v|be&3S~neg|not pro|it part|ring-PROG ?
+22|1|419.0|it usually makes a noise.|pro|it adv:adj|usual-LY v|make-3S det|a n|noise .
+22|1|420.0|---|
+22|1|421.0|---|
+"22|1|422.0|here, put this.|adv:loc|here v|put&ZERO pro:dem|this ."
+"22|1|423.0|ok, you put it on then.|co|okay pro|you v|put&ZERO pro|it ptl|on adv:tem|then ."
+22|1|424.0|---|
+22|1|425.0|put the red one on first.|v|put&ZERO det|the adj|red pro:indef|one prep|on adj|first .
+"22|1|426.0|here, give me the red one.|adv:loc|here v|give pro|me det|the adj|red pro:indef|one ."
+22|1|427.0|give her.|v|give pro|her .
+"22|1|428.0|let her do it, Zevy.|v|let&ZERO pro|her v|do pro|it n:prop|Zevy ."
+"22|1|429.0|let her do it, Zevy.|v|let&ZERO pro|her v|do pro|it n:prop|Zevy ."
+22|1|430.0|she'll figure it out.|pro|she~aux|will v|figure pro|it adv:loc|out .
+"22|1|431.0|come here, Ani.|v|come adv:loc|here n:prop|Ani ."
+22|1|432.0|here.|co|here .
+22|1|433.0|now you do it.|adv|now pro|you v|do pro|it .
+22|1|434.0|yay!|co|yay !
+22|1|435.0||
+22|1|436.0|here.|co|here .
+22|1|437.0|here.|co|here .
+22|1|438.0|last one.|adj|last pro:indef|one .
+22|1|439.0|you want to put the green one?|pro|you aux|want inf|to v|put&ZERO det|the adj|green pro:indef|one ?
+"22|1|440.0|oh, yeah.|co|yeah ."
+22|1|441.0|--|
+22|1|442.0|are you dancing?|aux|be&PRES pro|you part|dance-PROG ?
+22|1|443.0||
+22|1|444.0|dance?|n|dance ?
+22|1|445.0|you don't have to pay attention to her.|pro|you aux|do~neg|not aux|have inf|to v|pay n|attention prep|to pro|her .
+22|1|446.0|you can just do.|pro|you aux|can adv:int|just v|do .
+22|1|447.0|you're a camera hog.|pro|you~v|be&PRES det|a n|camera n|hog .
+22|1|448.0|---|
+22|1|449.0|dance?|n|dance ?
+22|1|450.0|you know how many pictures I have of you?|pro|you v|know adv:wh|how qn|many n|picture-PL pro|I v|have prep|of pro|you ?
+22|1|451.0|millions!|det:num|million-PL !
+22|1|452.0|yes!|co|yes !
+"22|1|453.0|yes, yes, yes. yes, yes, yes, yes, yes yes.|co|yes co|yes co|yes . co|yes co|yes co|yes co|yes co|yes co|yes ."
+"22|1|454.0|yes, yes, yes. yes, yes, yes, yes, yes, yes.|co|yes co|yes co|yes . co|yes co|yes co|yes co|yes co|yes co|yes ."
+22|1|455.0||
+22|1|456.0|Anielle?|n:prop|Anielle ?
+22|1|457.0|say pail?|v|say n|pail ?
+22|1|458.0|give me a morning kiss.|v|give pro|me det|a n|morning n|kiss .
+22|1|459.0|give me a morning kiss!|v|give pro|me det|a n|morning n|kiss !
+22|1|460.0|thank+you.|int|+int|thank+int|you .
+22|1|461.0||
+22|1|462.0||
+22|1|463.0|Oopa!|n:prop|Oopa !
+22|1|464.0|you want to watch Sagwa?|pro|you aux|want inf|to v|watch n:prop|Sagwa ?
+22|1|465.0|shh!|co|shh !
+22|1|466.0||
+"22|1|467.0|oh, thank+you!|int|+int|thank+int|you !"
+22|1|468.0|---|
+22|1|469.0||
+"22|1|470.0|Zevy, Zevy, just let her have it.|n:prop|Zevy n:prop|Zevy adv:int|just v|let&ZERO pro|her v|have pro|it ."
+"22|1|471.0|honey, she found it.|n|honey pro|she v|find&PAST pro|it ."
+22|1|472.0||
+22|1|473.0|---|
+22|1|474.0|he's so concerned about you.|pro|he~v|be&3S^pro|he~v|have&3S^ adv:int|so v|concern-PAST prep|about pro|you .
+22|1|475.0|where's the cat?|adv:wh|where~v|be&3S det|the n|cat ?
+22|1|476.0|do you see the bird?|aux|do pro|you v|see det|the n|bird ?
+22|1|477.0||
+22|1|478.0|hey Zevy?|co|hey n:prop|Zevy ?
+22|1|479.0|do you want to put on Baby_Mozart for her?|aux|do pro|you aux|want inf|to v|put&ZERO prep|on n:prop|Baby_Mozart prep|for pro|her ?
+22|1|480.0|Zevy?|n:prop|Zevy ?
+22|1|481.0|do you want to put on Baby_Mozart or Baby Einstein for her?|aux|do pro|you aux|want inf|to v|put&ZERO prep|on n:prop|Baby_Mozart conj:coo|or n:prop|Baby n:prop|Einstein prep|for pro|her ?
+22|1|482.0|oh!|
+22|1|483.0|oops!|int|oops !
+22|1|484.0|what was in there?|pro:wh|what v|be&PAST&13S prep|in adv:loc|there ?
+22|1|485.0|toys?|n|toy-PL ?
+22|1|486.0|is that a turtle?|v|be&3S pro:dem|that det|a n|turtle ?
+22|1|487.0||
+"22|1|488.0|turtle, right.|n|turtle co|right ."
+22|1|489.0|isn't that a --|v|be&3S~neg|not pro:dem|that det|a +...
+"22|1|490.0|oh, no, it's a lady+bug?|co|no pro|it~v|be&3S det|a n|+n|lady+n|bug ?"
+22|1|491.0|we're calling everything turtles today!|pro|we~aux|be&PRES part|call-PROG pro:indef|everything n|turtle-PL n|today !
+22|1|492.0|this is a lady+bug!|pro:dem|this v|be&3S det|a n|+n|lady+n|bug !
+22|1|493.0||
+"22|1|494.0|here, lady+bug!|co|here n|+n|lady+n|bug !"
+22|1|495.0|not turtle.|neg|not n|turtle .
+22|1|496.0|say lady+bug.|v|say n|+n|lady+n|bug .
+22|1|497.0|lady+bug.|n|+n|lady+n|bug .
+22|1|498.0|don't worry about it.|aux|do~neg|not v|worry prep|about pro|it .
+22|1|499.0|what you got?|pro:wh|what pro|you v|get&PAST^v|got^ ?
+22|1|500.0|wow!|co|wow !
+"22|1|501.0|why don't you put on Baby_Mozart for her, Zevy?|adv:wh|why aux|do~neg|not pro|you v|put&ZERO prep|on n:prop|Baby_Mozart prep|for pro:poss:det|her n:prop|Zevy ?"
+22|1|502.0||
+22|1|503.0|Anielle?|n:prop|Anielle ?
+"22|1|504.0|no, don't put that in your mouth!|neg|no aux|do~neg|not v|put&ZERO pro:dem|that prep|in pro:poss:det|your n|mouth !"
+22|1|505.0|not in your mouth.|neg|not prep|in pro:poss:det|your n|mouth .
+"22|1|506.0|Zevy, stop!|n:prop|Zevy v|stop !"
+22|1|507.0|come here.|v|come adv:loc|here .
+22|1|508.0|it's okay.|pro|it~v|be&3S adj|okay .
+22|1|509.0|oh!|
+22|1|510.0|come here.|v|come adv:loc|here .
+22|1|511.0|come to mama.|v|come prep|to n:prop|Mama .
+"22|1|512.0|Anielle, come to mama.|n:prop|Anielle v|come prep|to n:prop|Mama ."
+22|1|513.0|kaboom!|int|kaboom !
+22|1|514.0|oh!|
+22|1|515.0|what's wrong?|pro:wh|what~v|be&3S adj|wrong ?
+22|1|516.0|are you frustrated?|aux|be&PRES pro|you v|frustrate-PAST ?
+22|1|517.0|yeah?|co|yeah ?
+22|1|518.0|frustrated?|v|frustrate-PAST ?
+22|1|519.0|want to go get the lady+bug?|aux|want inf|to v|go v|get det|the n|+n|lady+n|bug ?
+22|1|520.0|put it on the --|v|put&ZERO pro|it prep|on det|the +...
+22|1|521.0|toy?|n|toy ?
+22|1|522.0|Anielle?|n:prop|Anielle ?
+22|1|523.0|shh.|co|shh .
+22|1|524.0|I want to ask Anielle a question.|pro|I aux|want inf|to v|ask n:prop|Anielle det|a n|question .
+22|1|525.0|do you know where Big_Bird is?|aux|do pro|you v|know adv:wh|where n:prop|Big_Bird v|be&3S ?
+22|1|526.0||
+22|1|527.0|where's Big_Bird?|adv:wh|where~v|be&3S n:prop|Big_Bird ?
+22|1|528.0||
+22|1|529.0|he's not on tv now.|pro|he~v|be&3S neg|not prep|on n|tv adv|now .
+22|1|530.0|want to go get the toy for Big_Bird?|aux|want inf|to v|go v|get det|the n|toy prep|for n:prop|Big_Bird ?
+22|1|531.0||
+22|1|532.0|kitty.|n|kitty .
+22|1|533.0|do you want to get the toy Big_Bird?|aux|do pro|you aux|want inf|to v|get det|the n|toy n:prop|Big_Bird ?
+22|1|534.0|do you want to go and get those little statue toys that she likes?|aux|do pro|you aux|want inf|to v|go conj:coo|and v|get det|those adj|little n|statue n|toy-PL rel|that pro|she v|like-3S ?
+22|1|535.0|the little Sesame Street characters?|det|the adv|little n:prop|Sesame n:prop|Street n|character-PL ?
+22|1|536.0||
+22|1|537.0|showing Johnny.|part|show-PROG n:prop|Johnny .
+22|1|538.0|is that your Johnny?|v|be&3S pro:dem|that pro:poss:det|your n:prop|Johnny ?
+22|1|539.0||
+22|1|540.0||
+22|1|541.0|--|
+22|1|542.0|---|
+22|1|543.0|---|
+22|1|544.0|---|
+22|1|545.0||
+22|1|546.0||
+22|1|547.0||
+22|1|548.0||
+22|1|549.0|where's Big_Bird?|adv:wh|where~v|be&3S n:prop|Big_Bird ?
+22|1|550.0|did you find Big_Bird?|aux|do&PAST pro|you v|find n:prop|Big_Bird ?
+22|1|551.0||
+22|1|552.0|who is that?|pro:wh|who v|be&3S pro:dem|that ?
+22|1|553.0||
+22|1|554.0|who is that?|pro:wh|who v|be&3S pro:dem|that ?
+22|1|555.0|who is that?|pro:wh|who v|be&3S pro:dem|that ?
+22|1|556.0||
+"22|1|557.0|no, that not doggie.|qn|no det|that neg|not n|dog-DIM ."
+22|1|558.0|who is that?|pro:wh|who v|be&3S pro:dem|that ?
+22|1|559.0||
+"22|1|560.0|here, who's this?|co|here pro:wh|who~v|be&3S^pro:wh|who~v|have&3S^ pro:dem|this ?"
+22|1|561.0|who's this?|pro:wh|who~v|be&3S^pro:wh|who~v|have&3S^ pro:dem|this ?
+22|1|562.0|who's this?|pro:wh|who~v|be&3S^pro:wh|who~v|have&3S^ pro:dem|this ?
+22|1|563.0||
+22|1|564.0|op!|co|op !
+22|1|565.0|say open!|co|say v|open !
+22|1|566.0|open.|v|open .
+22|1|567.0|here.|co|here .
+22|1|568.0|who is this?|pro:wh|who v|be&3S pro:dem|this ?
+22|1|569.0|what?|pro:wh|what ?
+22|1|570.0|you want to get dressed?|pro|you aux|want inf|to v|get v|dress-PAST ?
+22|1|571.0|so you can go out?|conj:subor|so pro|you aux|can v|go ptl|out ?
+22|1|572.0|ok.|co|okay .
+22|1|573.0|who is this?|pro:wh|who v|be&3S pro:dem|this ?
+22|1|574.0||
+22|1|575.0|---|
+22|1|576.0||
+22|1|577.0|thank+you.|int|+int|thank+int|you .
+"22|1|578.0|ok, Zevy.|co|okay n:prop|Zevy ."
+22|1|579.0|let me get your clothes.|v|let&ZERO pro|me v|get pro:poss:det|your n:pt|clothes .
+22|1|580.0|what Sam?|pro:wh|what n:prop|Sam ?
+22|1|581.0|I know.|pro|I v|know .
+22|1|582.0|Larry went somewhere.|n:prop|Larry v|go&PAST adv|somewhere .
+22|1|583.0|you going to come in the den and get dressed with me?|pro|you aux|go-PROG inf|to v|come prep|in det|the n|den conj:coo|and aux|get v|dress-PAST prep|with pro|me ?
+"22|1|584.0|Sam, close the gate, though.|n:prop|Sam v|close det|the n|gate adv|though ."
+"22|1|585.0|don't leave the gate open,|aux|do~neg|not v|leave det|the n|gate adj|open +..."
+"22|1|586.0|Zevy, do you want to come up and get dressed?|n:prop|Zevy aux|do pro|you aux|want inf|to v|come adv:loc|up conj:coo|and aux|get v|dress-PAST ?"
+22|1|587.0|right here.|adv|right adv:loc|here .
+22|1|588.0|what are you doing?|pro:wh|what v|be&PRES pro|you part|do-PROG ?
+22|1|589.0|---|
+22|1|590.0|---|
+22|1|591.0|---|
+22|1|592.0||
+"22|1|593.0|Zevy, you want to get dressed, sweetie?|n:prop|Zevy pro|you aux|want inf|to v|get v|dress-PAST co:voc|sweetie ?"
+22|1|594.0|who's hat is that?|pro:wh|who~v|be&3S^pro:wh|who~v|have&3S^ n|hat v|be&3S pro:dem|that ?
+22|1|595.0|who's is this?|pro:wh|who~aux|be&3S^pro:wh|who~aux|do&3S^pro:wh|who~aux|have&3S^ v|be&3S pro:dem|this ?
+22|1|596.0|want to get dressed?|aux|want inf|to v|get v|dress-PAST ?
+22|1|597.0|after you get dressed.|conj:subor|after pro|you aux|get v|dress-PAST .
+22|1|598.0||
+22|1|599.0|---|
+22|1|600.0|I believe that's the front.|pro|I v|believe pro:dem|that~v|be&3S det|the adj|front .
+22|1|601.0|Zevy?|n:prop|Zevy ?
+22|1|602.0|Zevy has his own helmet.|n:prop|Zevy v|have&3S pro:poss:det|his adj|own n|helmet .
+22|1|603.0|you'll wear yours.|pro|you~aux|will v|wear pro:poss|yours .
+"22|1|604.0|do you want to get dressed, Zevy?|aux|do pro|you aux|want inf|to v|get v|dress-PAST n:prop|Zevy ?"
+22|1|605.0|so you can play outside?|conj:subor|so pro|you aux|can v|play adv:loc|outside ?
+22|1|606.0|you want to go in the den?|pro|you aux|want inf|to v|go prep|in det|the n|den ?
+22|1|607.0|or do you want to do it here?|conj:coo|or aux|do pro|you aux|want inf|to v|do pro|it adv:loc|here ?
+22|1|608.0|let's go in the den|aux|let's v|go prep|in det|the n|den .
+22|1|609.0|so you don't have to be on camera dressing.|conj:subor|so pro|you aux|do~neg|not aux|have inf|to v|be prep|on n|camera n|dressing .
+22|1|610.0|you want to bring that to mama?|pro|you aux|want inf|to v|bring pro:dem|that prep|to n:prop|Mama ?
+22|1|611.0||
+22|1|612.0|thank+you.|int|+int|thank+int|you .
+22|1|613.0|very good helper.|adv:int|very adj|good n:v|help-AGT .
+22|1|614.0||
+22|1|615.0|---|
+22|1|616.0|Oopa|n:prop|Oopa .
+22|1|617.0|Oopa.|n:prop|Oopa .
+22|1|618.0|you want the dice?|pro|you v|want det|the n|die&PL ?
+22|1|619.0|yeah?|co|yeah ?
+22|1|620.0||
+22|1|621.0|Anielle?|n:prop|Anielle ?
+22|1|622.0|Anielle?|n:prop|Anielle ?
+22|1|623.0|where's Big_Bird?|adv:wh|where~v|be&3S n:prop|Big_Bird ?
+22|1|624.0|can you bring Big_Bird to mama?|aux|can pro|you v|bring n:prop|Big_Bird prep|to n:prop|Mama ?
+22|1|625.0|bring mama Big_Bird.|v|bring n:prop|Mama n:prop|Big_Bird .
+"22|1|626.0|no, where's Big_Bird?|co|no adv:wh|where~v|be&3S n:prop|Big_Bird ?"
+22|1|627.0|where's Big_Bird?|adv:wh|where~v|be&3S n:prop|Big_Bird ?
+22|1|628.0|look behind you.|v|look prep|behind pro|you .
+22|1|629.0|in that box.|prep|in det|that n|box .
+22|1|630.0|look over there.|v|look prep|over adv:loc|there .
+22|1|631.0|Big_Bird.|n:prop|Big_Bird .
+22|1|632.0|where's Big_Bird?|adv:wh|where~v|be&3S n:prop|Big_Bird ?
+22|1|633.0||
+"22|1|634.0|Big_Bird, right.|n:prop|Big_Bird co|right ."
+22|1|635.0|yeah.|co|yeah .
+22|1|636.0|I hope not!|pro|I n|hope neg|not !
+22|1|637.0||
+"22|1|638.0|I hope not, Sam.|pro|I n|hope neg|not n:prop|Sam ."
+22|1|639.0|what happened?|pro:wh|what v|happen-PAST ?
+22|1|640.0|what happened?|pro:wh|what v|happen-PAST ?
+22|1|641.0|---|
+22|1|642.0|Anielle?|n:prop|Anielle ?
+22|1|643.0|you want to watch Baby_Mozart?|pro|you aux|want inf|to v|watch n:prop|Baby_Mozart ?
+22|1|644.0||
+22|1|645.0||
+22|1|646.0|keys?|v|key-3S ?
+22|1|647.0|whose keys are those?|pro:wh|whose v|key-3S v|be&PRES pro:dem|those ?
+22|1|648.0|she said keys.|pro|she v|say&PAST n|key-PL .
+"22|1|649.0|Zevy, let's get away.|n:prop|Zevy aux|let's v|get ptl|away ."
+22|1|650.0|let her --|v|let&ZERO pro|her +...
+22|1|651.0|thank+you.|int|+int|thank+int|you .
+22|1|652.0|thank+you.|int|+int|thank+int|you .
+22|1|653.0|thank+you.|int|+int|thank+int|you .
+"22|1|654.0|go watch Baby_Mozart, Zevy!|v|go v|watch n:prop|Baby_Mozart n:prop|Zevy !"
+22|1|655.0|look!|v|look !
+"22|1|656.0|hey, Anielle?|co|hey n:prop|Anielle ?"
+22|1|657.0||
+22|1|658.0|---|
+22|1|659.0||
+22|1|660.0|look at the teddy+bear!|v|look prep|at det|the n|+n|teddy+n|bear !
+22|1|661.0|are you dancing like the teddy?|v|be&PRES pro|you part|dance-PROG prep|like det|the n|teddy ?
+22|1|662.0||
+22|1|663.0|say Teddy!|v|say n:prop|Teddy !
+22|1|664.0||
+"22|1|665.0|what letter, Zevy, are they putting up?|det:wh|what n|letter n:prop|Zevy v|be&PRES pro|they part|put-PROG adv:loc|up ?"
+22|1|666.0|no.|co|no .
+22|1|667.0|say the letters.|v|say det|the n|letter-PL .
+22|1|668.0|say the letters.|v|say det|the n|letter-PL .
+"22|1|669.0|right, you saw the z@l.|co|right pro|you v|see&PAST det|the n:let|z ."
+22|1|670.0|yeah.|co|yeah .
+"22|1|671.0|no, it starts with an a@l.|co|no pro|it v|start-3S prep|with det|a n:let|a ."
+22|1|672.0|Oooh.|n:prop|Oooh .
+22|1|673.0|fire!|n|fire !
+22|1|674.0|flames?|n|flame-PL ?
+22|1|675.0|is it hot?|v|be&3S pro|it adj|hot ?
+"22|1|676.0|oh, Zevy!|n:prop|Zevy !"
+"22|1|677.0|come here, z@l.|v|come adv:loc|here n:let|z ."
+22|1|678.0|let me get you dressed.|v|let&ZERO pro|me v|get pro|you v|dress-PAST .
+22|1|679.0|Zevy.|n:prop|Zevy .
+22|1|680.0|you'll love this in about four months.|pro|you~aux|will v|love det|this adv:loc|in prep|about det:num|four n|month-PL .
+22|1|681.0|---|
+22|1|682.0|---|
+22|1|683.0|oh!|
+22|1|684.0||
+22|1|685.0|oh!|
+22|1|686.0|is that pretty?|v|be&3S det|that adj|pretty ?
+22|1|687.0|Zevy?|n:prop|Zevy ?
+"22|1|688.0|Zevy, look at mama.|n:prop|Zevy v|look ptl|at n:prop|Mama ."
+22|1|689.0|Zevy?|n:prop|Zevy ?
+"22|1|690.0|can you look at mama, please?|aux|can pro|you v|look ptl|at n:prop|Mama co|please ?"
+22|1|691.0|Zevy?|n:prop|Zevy ?
+22|1|692.0|come into the living+room with me real quick.|v|come prep|into det|the n|+n|living+n|room prep|with pro|me adv:int|real adj|quick .
+22|1|693.0|and we'll get you dressed while she is watching this.|conj:coo|and pro|we~aux|will v|get pro|you v|dress-PAST conj:subor|while pro|she aux|be&3S part|watch-PROG pro:dem|this .
+22|1|694.0|---|
+22|1|695.0|you still like this video?|pro|you adv|still v|like det|this n|video ?
+22|1|696.0|you like the music?|pro|you prep|like det|the n|music ?
+22|1|697.0|---|
+22|1|698.0|take the keys out of your mouth.|v|take det|the n|key-PL n|out prep|of pro:poss:det|your n|mouth .
+22|1|699.0|out of your mouth.|n|out prep|of pro:poss:det|your n|mouth .
+22|1|700.0|out!|adv:loc|out !
+22|1|701.0||
+22|1|702.0|now watch the --|adv|now v|watch det|the +...
+22|1|703.0|now watch Mozart.|adv|now v|watch n:prop|Mozart .
+22|1|704.0||
+22|1|705.0|don't talk like a baby!|aux|do~neg|not v|talk prep|like det|a n|baby !
+22|1|706.0||
+"22|1|707.0|yeah, that's what he says!|co|yeah pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ pro:wh|what pro|he v|say-3S !"
+22|1|708.0|what does he say?|pro:wh|what aux|do&3S pro|he v|say ?
+22|1|709.0|what does he say?|pro:wh|what aux|do&3S pro|he v|say ?
+22|1|710.0|what is that?|pro:wh|what v|be&3S pro:dem|that ?
+22|1|711.0|orange?|adj|orange ?
+22|1|712.0|Sam!|n:prop|Sam !
+"22|1|713.0|don't make the noise of that, please.|aux|do~neg|not v|make det|the n|noise prep|of pro:dem|that co|please ."
+22|1|714.0|apple?|n|apple ?
+"22|1|715.0|Zevy, tell her what everything is.|n:prop|Zevy v|tell pro|her adv:int|what pro:indef|everything v|be&3S ."
+22|1|716.0|---|
+22|1|717.0|banana!|n|banana !
+22|1|718.0|what does he say?|pro:wh|what aux|do&3S pro|he v|say ?
+22|1|719.0||
+22|1|720.0|blah!|co|blah !
+22|1|721.0||
+22|1|722.0|Anielle?|n:prop|Anielle ?
+22|1|723.0|Anielle?|n:prop|Anielle ?
+22|1|724.0|Anielle?|n:prop|Anielle ?
+22|1|725.0|can you say train?|aux|can pro|you v|say n|train ?
+22|1|726.0|train?|n|train ?
+22|1|727.0||
+"22|1|728.0|yeah, it's a train.|co|yeah pro|it~v|be&3S det|a n|train ."
+22|1|729.0|---|
+22|1|730.0|oh!|
+22|1|731.0|lights?|v|light-3S ?
+22|1|732.0|is that lights?|v|be&3S pro:dem|that v|light-3S ?
+"22|1|733.0|oh, that's the lights.|pro:dem|that~v|be&3S det|the n|light-PL ."
+22|1|734.0|very good!|adv:int|very adj|good !
+22|1|735.0||
+22|1|736.0|very good!|adv:int|very adj|good !
+22|1|737.0|ooh!|
+22|1|738.0|Anielle?|n:prop|Anielle ?
+22|1|739.0|it's a doggie!|pro|it~v|be&3S det|a n|dog-DIM !
+22|1|740.0||
+22|1|741.0|Doggie!|n:prop|Doggie !
+22|1|742.0|you're talking like you're two years old.|pro|you~aux|be&PRES part|talk-PROG conj:subor|like pro|you~v|be&PRES det:num|two n|year-PL adj|old .
+22|1|743.0|is the train going bye+bye?|aux|be&3S det|the n|train aux|go-PROG co|bye+bye ?
+22|1|744.0|want to sit with mama?|aux|want inf|to v|sit prep|with n:prop|Mama ?
+22|1|745.0||
+22|1|746.0|you want the dice?|pro|you v|want det|the n|die&PL ?
+22|1|747.0|you want mama hold you?|pro|you v|want n:prop|Mama v|hold pro|you ?
+"22|1|748.0|oh, what else?|pro:wh|what post|else ?"
+22|1|749.0|what sound does an elephant make?|det:wh|what n|sound aux|do&3S det|a n|elephant v|make ?
+22|1|750.0|oh!|
+"22|1|751.0|what is that called, Zevy?|pro:wh|what aux|be&3S pro:dem|that v|call-PAST n:prop|Zevy ?"
+22|1|752.0|a crab on a --|det|a n|crab prep|on det|a +...
+22|1|753.0|what's the thing that's making the noise?|pro:wh|what~v|be&3S det|the n|thing pro:dem|that~aux|be&3S part|make-PROG det|the n|noise ?
+22|1|754.0|a metronome?|det|a n|metronome ?
+22|1|755.0|---|
+22|1|756.0||
+22|1|757.0|are they climbing the steps?|aux|be&PRES pro|they part|climb-PROG det|the n|step-PL ?
+22|1|758.0|are they going up?|aux|be&PRES pro|they part|go-PROG ptl|up ?
+22|1|759.0|say up!|v|say ptl|up !
+22|1|760.0|are they going up?|aux|be&PRES pro|they part|go-PROG ptl|up ?
+22|1|761.0|---|
+22|1|762.0|---|
+22|1|763.0|---|
+"22|1|764.0|ooh, Zevy!|n:prop|Zevy !"
+"22|1|765.0|clap your hands, Ani.|v|clap pro:poss:det|your n|hand-PL n:prop|Ani ."
+22|1|766.0|to the music.|prep|to det|the n|music .
+22|1|767.0|---|
+22|1|768.0|Zevy?|n:prop|Zevy ?
+22|1|769.0|would you like to learn to play that on the piano?|aux|will&COND pro|you v|like inf|to v|learn inf|to v|play pro:dem|that prep|on det|the n|piano ?
+22|1|770.0|like it's being played.|conj:subor|like pro|it~aux|be&3S part|be-PROG v|play-PAST .
+22|1|771.0|who?|pro:wh|who ?
+22|1|772.0|right!|co|right !
+22|1|773.0||
+22|1|774.0|give to mama?|v|give prep|to n:prop|Mama ?
+22|1|775.0|you going to put it in the bucket?|pro|you aux|go-PROG inf|to v|put&ZERO pro|it prep|in det|the n|bucket ?
+22|1|776.0|---|
+"22|1|777.0|oh, look Ani!|v|look n:prop|Ani !"
+22|1|778.0||
+"22|1|779.0|oh, all gone!|adv|all part|go&PERF !"
+22|1|780.0|what do you do with fire?|pro:wh|what aux|do pro|you v|do prep|with n|fire ?
+22|1|781.0|right.|co|right .
+22|1|782.0|it's hot!|pro|it~v|be&3S adj|hot !
+22|1|783.0|is fire hot?|v|be&3S n|fire adj|hot ?
+22|1|784.0||
+22|1|785.0|are you blowing out something hot?|aux|be&PRES pro|you part|blow-PROG ptl|out pro:indef|something adj|hot ?
+22|1|786.0|---|
+"22|1|787.0|where are you going, Anielle?|adv:wh|where aux|be&PRES pro|you aux|go-PROG n:prop|Anielle ?"
+22|1|788.0|are you going to watch the video?|aux|be&PRES pro|you aux|go-PROG inf|to v|watch det|the n|video ?
+22|1|789.0|look at the colors!|v|look prep|at det|the n|color-PL !
+22|1|790.0|oh!|
+22|1|791.0|---|
+22|1|792.0||
+22|1|793.0|oops!|int|oops !
+22|1|794.0|that's okay.|pro:dem|that~v|be&3S adj|okay .
+"22|1|795.0|look, Anielle!|v|look n:prop|Anielle !"
+22|1|796.0|metronome!|n|metronome !
+22|1|797.0||
+22|1|798.0|right!|co|right !
+22|1|799.0||
+22|1|800.0|baba taught both of you to do that!|n|baby v|teach&PAST qn|both conj:subor|of pro|you inf|to v|do pro:dem|that !
+22|1|801.0|a dolphin?|det|a n|dolphin ?
+"22|1|802.0|right, Zevy.|co|right n:prop|Zevy ."
+22|1|803.0|that was very good.|pro:dem|that v|be&PAST&13S adv:int|very adj|good .
+"22|1|804.0|Tic, toc, tic toc.|n:prop|Tic ?|toc ?|tic ?|toc ."
+22|1|805.0||
+22|1|806.0|---|
+22|1|807.0|is that like your ball?|v|be&3S pro:dem|that prep|like pro:poss:det|your n|ball ?
+22|1|808.0|Anielle!|n:prop|Anielle !
+22|1|809.0|look at the balls!|v|look prep|at det|the n|ball-PL !
+"22|1|810.0|it's almost the exact same toy, Zevy.|pro|it~v|be&3S^pro|it~v|have&3S^ adv|almost det|the adj|exact adj|same n|toy n:prop|Zevy ."
+22|1|811.0|it's made by a different company.|pro|it~aux|be&3S^pro|it~aux|do&3S^pro|it~aux|have&3S^ v|make&PAST prep|by det|a adj|different n|company .
+22|1|812.0|it looks more like a castle.|pro|it v|look-3S adv|more v|like det|a n|castle .
+22|1|813.0|you guys.|pro|you n|guy-PL .
+22|1|814.0|you put too many balls in it.|pro|you v|put&ZERO adv:int|too qn|many n|ball-PL prep|in pro|it .
+22|1|815.0|---|
+22|1|816.0|---|
+22|1|817.0|---|
+22|1|818.0|you guys put the wrong balls in here.|pro|you n|guy-PL v|put&ZERO det|the adj|wrong n|ball-PL prep|in adv:loc|here .
+22|1|819.0||
+22|1|820.0|Sam.|n:prop|Sam .
+22|1|821.0|these all go in the other --|pro:dem|these adv|all v|go prep|in det|the qn|other +...
+22|1|822.0|balls thing.|v|ball-3S n|thing .
+22|1|823.0|you want to put them in?|pro|you aux|want inf|to v|put&ZERO pro|them adv:loc|in ?
+22|1|824.0|look it!|v|look pro|it !
+22|1|825.0|oh!|
+22|1|826.0|ooh!|
+22|1|827.0|you want to sit down on mama's lap?|pro|you aux|want inf|to v|sit adv:loc|down prep|on n:prop|Mama^n:prop|Mama-POSS^ n|lap ?
+22|1|828.0||
+22|1|829.0|push.|n|push .
+22|1|830.0|yeah!|co|yeah !
+"22|1|831.0|Zevy, that doesn't go there.|n:prop|Zevy pro:dem|that aux|do&3S~neg|not v|go adv:loc|there ."
+22|1|832.0|ok?|co|okay ?
+22|1|833.0|this is the one that goes to here.|pro:dem|this v|be&3S det|the pro:indef|one rel|that v|go-3S prep|to adv:loc|here .
+22|1|834.0|you want to watch the video with mommy?|pro|you aux|want inf|to v|watch det|the n|video prep|with n:prop|Mommy ?
+22|1|835.0|look!|v|look !
+"22|1|836.0|ooh, green!|adj|green !"
+22|1|837.0|that doesn't go in there!|pro:dem|that aux|do&3S~neg|not v|go prep|in adv:loc|there !
+22|1|838.0||
+22|1|839.0||
+22|1|840.0||
+22|1|841.0|click?|on|click ?
+22|1|842.0|huh?|co|huh ?
+22|1|843.0|what is that?|pro:wh|what v|be&3S pro:dem|that ?
+22|1|844.0|what is that?|pro:wh|what v|be&3S pro:dem|that ?
+22|1|845.0|is that doggie?|v|be&3S det|that n|dog-DIM ?
+22|1|846.0|what is that?|pro:wh|what v|be&3S pro:dem|that ?
+22|1|847.0||
+"22|1|848.0|Doggie, right.|n:prop|Doggie co|right ."
+22|1|849.0|what's that?|pro:wh|what~v|be&3S^pro:wh|what~v|have&3S^ pro:dem|that ?
+22|1|850.0|cow?|n|cow ?
+22|1|851.0|can you say cow?|aux|can pro|you v|say n|cow ?
+22|1|852.0|cow.|n|cow .
+22|1|853.0|moo!|on|moo !
+22|1|854.0|what does the cow say?|pro:wh|what aux|do&3S det|the n|cow co|say ?
+22|1|855.0|moo!|on|moo !
+22|1|856.0|duck.|n|duck .
+22|1|857.0||
+22|1|858.0|duck.|n|duck .
+22|1|859.0||
+22|1|860.0|duck.|n|duck .
+22|1|861.0||
+22|1|862.0|kitty.|n|kitty .
+22|1|863.0|is that a kitty+kat?|v|be&3S pro:dem|that det|a ?|kitty+kat ?
+22|1|864.0|is that a kitty?|v|be&3S pro:dem|that det|a n|kitty ?
+22|1|865.0||
+22|1|866.0|kitty+kat.|?|kitty+kat .
+22|1|867.0|right.|co|right .
+22|1|868.0||
+22|1|869.0|chicken.|n|chicken .
+22|1|870.0|can you say rooster?|aux|can pro|you v|say n|rooster ?
+22|1|871.0||
+22|1|872.0|yeah.|co|yeah .
+22|1|873.0|you like the music?|pro|you prep|like det|the n|music ?
+22|1|874.0|dance to it?|v|dance prep|to pro|it ?
+"22|1|875.0|oh, don't eat that!|aux|do~neg|not v|eat pro:dem|that !"
+22|1|876.0|don't eat the box.|aux|do~neg|not v|eat det|the n|box .
+22|1|877.0|that's so grubby.|pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ adv:int|so adj|grubby .
+22|1|878.0|blah!|co|blah !
+22|1|879.0||
+22|1|880.0|butter+fly!|n|+n|butter+n|fly !
+22|1|881.0|where's your butter+fly?|adv:wh|where~v|be&3S pro:poss:det|your n|+n|butter+n|fly ?
+22|1|882.0|do you have a butter+fly?|aux|do pro|you v|have det|a n|+n|butter+n|fly ?
+22|1|883.0|you wave hi to her?|pro|you v|wave co|hi prep|to pro|her ?
+22|1|884.0|say hi!|v|say co|hi !
+22|1|885.0|Anielle?|n:prop|Anielle ?
+22|1|886.0|where's Big_Bird?|adv:wh|where~v|be&3S n:prop|Big_Bird ?
+22|1|887.0|let her pick out Big_Bird.|v|let&ZERO pro|her v|pick prep|out n:prop|Big_Bird .
+"22|1|888.0|oh, here's the helicopter!|adv:loc|here~v|be&3S det|the n|helicopter !"
+"22|1|889.0|oh, it's gone!|pro|it~aux|be&3S^pro|it~aux|do&3S^pro|it~aux|have&3S^ part|go&PERF !"
+22|1|890.0||
+22|1|891.0|all gone!|adv|all part|go&PERF !
+22|1|892.0|are you dancing to the music?|aux|be&PRES pro|you part|dance-PROG prep|to det|the n|music ?
+22|1|893.0|dancing?|part|dance-PROG ?
+22|1|894.0|are you guys putting those inside the box?|v|be&PRES pro|you n|guy-PL part|put-PROG pro:dem|those prep|inside det|the n|box ?
+22|1|895.0|what goes in that one?|pro:wh|what v|go-3S prep|in det|that pro:indef|one ?
+"22|1|896.0|if you don't want him to do something with your things, you can tell him not to.|conj:subor|if pro|you aux|do~neg|not v|want pro|him inf|to v|do pro:indef|something prep|with pro:poss:det|your n|thing-PL pro|you aux|can v|tell pro|him neg|not prep|to ."
+22|1|897.0|you don't have to just let him do things that you don't want him to do.|pro|you aux|do~neg|not aux|have inf|to adv:int|just v|let&ZERO pro|him v|do n|thing-PL rel|that pro|you aux|do~neg|not aux|want pro|him inf|to v|do .
+22|1|898.0||
+22|1|899.0||
+22|1|900.0|hello Anielle Muriel.|co|hello n:prop|Anielle n:prop|Muriel .
+22|1|901.0|good girl.|adj|good n|girl .
+22|1|902.0||
+22|1|903.0|good girl!|adj|good n|girl !
+22|1|904.0||
+22|1|905.0|is that a good show?|v|be&3S pro:dem|that det|a adj|good n|show ?
+22|1|906.0||
+22|1|907.0|good girl.|adj|good n|girl .
+22|1|908.0|---|
+22|1|909.0|good girl.|adj|good n|girl .
+22|1|910.0|say on?|v|say ptl|on ?
+22|1|911.0|let's keep it on.|aux|let's v|keep pro|it ptl|on .
+22|1|912.0||
+22|1|913.0|what?|pro:wh|what ?
+22|1|914.0||
+22|1|915.0|off.|prep|off .
+"22|1|916.0|no, I don't want it off.|co|no pro|I aux|do~neg|not v|want pro|it adv:loc|off ."
+22|1|917.0|I want it on.|pro|I v|want pro|it ptl|on .
+"22|1|918.0|Zevy, lower your voice please?|n:prop|Zevy v|lower pro:poss:det|your n|voice co|please ?"
+"22|1|919.0|don't hit, Zevy|aux|do~neg|not v|hit&ZERO n:prop|Zevy ."
+22|1|920.0||
+22|1|921.0|dinosaurs!|n|dinosaur-PL !
+22|1|922.0|---|
+22|1|923.0|---|
+22|1|924.0|---|
+22|1|925.0|---|
+22|1|926.0|yeah!|co|yeah !
+22|1|927.0|right!|co|right !
+22|1|928.0|say metronome!|v|say n|metronome !
+22|1|929.0||
+22|1|930.0|that's good.|pro:dem|that~v|be&3S adj|good .
+22|1|931.0|---|
+22|1|932.0|what is that?|pro:wh|what v|be&3S pro:dem|that ?
+22|1|933.0|train?|n|train ?
+22|1|934.0|---|
+22|1|935.0|---|
+22|1|936.0|is that a choo+choo train?|v|be&3S pro:dem|that det|a n|+on|choo+on|choo n|train ?
+22|1|937.0|another one?|det|another pro:indef|one ?
+"22|1|938.0|is it time for you to get dressed, Zevy?|v|be&3S pro|it v|time prep|for pro|you inf|to v|get v|dress-PAST n:prop|Zevy ?"
+22|1|939.0|have you been to the bath+room yet?|v|have pro|you part|be&PERF prep|to det|the n|+n|bath+n|room adv|yet ?
+22|1|940.0|ok.|co|okay .
+"22|1|941.0|why don't you, uh take off your pajamas now?|adv:wh|why aux|do~neg|not pro|you v|take ptl|off pro:poss:det|your n|pajama-PL^n|pajamas^ adv|now ?"
+22|1|942.0|let's get you dressed?|aux|let's v|get pro|you v|dress-PAST ?
+"22|1|943.0|Zevy, I don't think you've been to the bath+room yet, have you?|n:prop|Zevy pro|I aux|do~neg|not v|think pro|you~v|have part|be&PERF prep|to det|the n|+n|bath+n|room adv|yet v|have pro|you ?"
+22|1|944.0|---|
+22|1|945.0|---|
+22|1|946.0|---|
+22|1|947.0|you like clothes?|pro|you v|like n:pt|clothes ?
+22|1|948.0|up up up up up up up!|adv:loc|up prep|up prep|up prep|up prep|up prep|up prep|up !
+22|1|949.0|look!|v|look !
+22|1|950.0|train!|n|train !
+22|1|951.0|choo+choo!|on|+on|choo+on|choo !
+22|1|952.0||
+22|1|953.0|choo+choo!|on|+on|choo+on|choo !
+22|1|954.0|---|
+22|1|955.0|hey Sam.|co|hey n:prop|Sam .
+22|1|956.0|did you have this tape when you were a kid?|aux|do&PAST pro|you v|have det|this n|tape conj:subor|when pro|you v|be&PAST det|a n|kid ?
+22|1|957.0|were you a kid?|aux|be&PAST pro|you det|a n|kid ?
+22|1|958.0|I thought you were born eight years old.|pro|I v|think&PAST pro|you aux|be&PAST part|bear&PERF det:num|eight n|year-PL adj|old .
+22|1|959.0|you sure?|pro|you adv|sure ?
+22|1|960.0|you want to call her this morning?|pro|you aux|want inf|to v|call pro|her det|this n|morning ?
+22|1|961.0|you want to call her now?|pro|you aux|want inf|to v|call pro|her adv|now ?
+22|1|962.0|tell her you were reading stories last night to Zevy so you couldn't call her.|v|tell pro|her pro|you aux|be&PAST part|read-PROG n|story-PL n|last n|night prep|to n:prop|Zevy conj:subor|so pro|you aux|could~neg|not v|call pro|her .
+22|1|963.0||
+22|1|964.0||
+22|1|965.0||
+22|1|966.0|uh oh!|
+22|1|967.0||
+22|1|968.0|uh oh!|
+22|1|969.0||
+22|1|970.0||
+22|1|971.0||
+22|1|972.0|say doll?|v|say n|doll ?
+22|1|973.0|---|
+22|1|974.0||
+22|1|975.0||
+22|1|976.0|---|
+22|1|977.0||
+22|1|978.0|is that a dolphin?|v|be&3S pro:dem|that det|a n|dolphin ?
+22|1|979.0|fish.|n|fish .
+22|1|980.0|on the tv.|prep|on det|the n|tv .
+22|1|981.0|no.|co|no .
+22|1|982.0|dolphin.|n|dolphin .
+22|1|983.0||
+"22|1|984.0|do dolphins smile, Zevy?|v|do n|dolphin-PL n|smile n:prop|Zevy ?"
+22|1|985.0|I think so too.|pro|I v|think adv|so post|too .
+"22|1|986.0|I mean, even real, live ones.|pro|I v|mean v|even adj|real adj|live pro:indef|one-PL ."
+22|1|987.0|have you seen a real+live dolphin?|v|have pro|you part|see&PERF det|a ?|real+live n|dolphin ?
+22|1|988.0|you actually did.|pro|you adv:adj|actual-LY aux|do&PAST .
+22|1|989.0|yeah.|co|yeah .
+22|1|990.0|at a show.|prep|at det|a n|show .
+22|1|991.0|at a water show.|prep|at det|a n|water n|show .
+22|1|992.0|you were very small. though.|pro|you v|be&PAST adv:int|very adj|small . adv|though .
+"22|1|993.0|you saw one, actually, recently.|pro|you v|see&PAST pro:indef|one adv:adj|actual-LY adv:adj|recent-LY ."
+22|1|994.0|oh really?|adv:adj|real-LY ?
+22|1|995.0|not today.|neg|not n|today .
+22|1|996.0|---|
+22|1|997.0||
+22|1|998.0|you know they have the dolphin show?|pro|you v|know pro|they v|have det|the n|dolphin n|show ?
+22|1|999.0|you only saw it for about five minutes.|pro|you adv|only v|see&PAST pro|it prep|for prep|about det:num|five n|minute-PL .
+22|1|1000.0||
+22|1|1001.0|uh oh!|
+22|1|1002.0|ok.|co|okay .
+22|1|1003.0|here comes the puppet.|adv:loc|here v|come-3S det|the n|puppet .
+22|1|1004.0||
+22|1|1005.0|is that a frog?|v|be&3S pro:dem|that det|a n|frog ?
+22|1|1006.0||
+22|1|1007.0|---|
+22|1|1008.0|look!|v|look !
+22|1|1009.0|he's waving bye+bye!|pro|he~aux|be&3S part|wave-PROG co|bye+bye !
+22|1|1010.0|---|
+"22|1|1011.0|look, the frog is waving bye+bye.|v|look det|the n|frog aux|be&3S part|wave-PROG co|bye+bye ."
+22|1|1012.0|look!|v|look !
+22|1|1013.0||
+22|1|1014.0||
+22|1|1015.0||
+22|1|1016.0|you want daddy to dress you?|pro|you v|want n:prop|Daddy inf|to v|dress pro|you ?
+"22|1|1017.0|Zevy, you want me to dress you?|n:prop|Zevy pro|you v|want pro|me inf|to v|dress pro|you ?"
+22|1|1018.0|you want me to dress you?|pro|you v|want pro|me inf|to v|dress pro|you ?
+22|1|1019.0|you want me to dress you?|pro|you v|want pro|me inf|to v|dress pro|you ?
+22|1|1020.0|ok.|co|okay .
+22|1|1021.0|it's time to put on some clothes.|pro|it~aux|be&3S^pro|it~aux|do&3S^pro|it~aux|have&3S^ v|time inf|to v|put&ZERO ptl|on qn|some n:pt|clothes .
+22|1|1022.0|you're a puppet.|pro|you~v|be&PRES det|a n|puppet .
+"22|1|1023.0|oh, what is that?|pro:wh|what v|be&3S pro:dem|that ?"
+22|1|1024.0||
+22|1|1025.0|what is that?|pro:wh|what v|be&3S pro:dem|that ?
+22|1|1026.0||
+22|1|1027.0|baby?|n|baby ?
+22|1|1028.0||
+22|1|1029.0|baby.|n|baby .
+22|1|1030.0||
+"22|1|1031.0|yeah, baby.|co|yeah n|baby ."
+22|1|1032.0|shh.|co|shh .
+22|1|1033.0|baby!|n|baby !
+22|1|1034.0||
+"22|1|1035.0|right, baby.|co|right n|baby ."
+"22|1|1036.0|what's this, Anielle?|pro:wh|what~v|be&3S det|this n:prop|Anielle ?"
+22|1|1037.0|baby doll.|n|baby n|doll .
+22|1|1038.0||
+"22|1|1039.0|right, baby.|co|right n|baby ."
+22|1|1040.0||
+22|1|1041.0|yeah.|co|yeah .
+22|1|1042.0|that's a baby.|pro:dem|that~v|be&3S det|a n|baby .
+22|1|1043.0|good girl.|adj|good n|girl .
+22|1|1044.0||
+22|1|1045.0|all gone.|adv|all part|go&PERF .
+22|1|1046.0||
+22|1|1047.0||
+22|1|1048.0||
+22|1|1049.0|right!|co|right !
+22|1|1050.0|that's right|pro:dem|that~v|be&3S adj|right .
+22|1|1051.0|is that the one that goes blah?|v|be&3S pro:dem|that det|the pro:indef|one rel|that v|go-3S co|blah ?
+22|1|1052.0|---|
+22|1|1053.0|---|
+22|1|1054.0||
+22|1|1055.0|---|
+22|1|1056.0|blah!|co|blah !
+22|1|1057.0||
+22|1|1058.0|---|
+22|1|1059.0|look!|v|look !
+22|1|1060.0|are they playing with the fishies?|aux|be&PRES pro|they part|play-PROG prep|with det|the adj|fishy-PL ?
+22|1|1061.0|and the cow?|conj:coo|and det|the n|cow ?
+22|1|1062.0||
+22|1|1063.0|---|
+22|1|1064.0|---|
+22|1|1065.0|---|
+22|1|1066.0||
+22|1|1067.0|blah!|co|blah !
+22|1|1068.0|can you do the metronome?|aux|can pro|you v|do det|the n|metronome ?
+22|1|1069.0||
+22|1|1070.0||
+22|1|1071.0||
+22|1|1072.0||
+22|1|1073.0||
+22|1|1074.0||
+22|1|1075.0|ooh!|
+22|1|1076.0|---|
+22|1|1077.0|it's good music!|pro|it~v|be&3S^pro|it~v|have&3S^ adj|good n|music !
+22|1|1078.0|---|
+22|1|1079.0|---|
+22|1|1080.0|---|
+22|1|1081.0|---|
+22|1|1082.0|Buh+bye!|n:prop|Buh+bye !
+22|1|1083.0|---|
+22|1|1084.0|---|
+22|1|1085.0|---|
+22|1|1086.0|---|
+22|1|1087.0|---|
+"22|1|1088.0|Anielle, don't go upstairs.|n:prop|Anielle aux|do~neg|not v|go adv:loc|upstairs ."
+22|1|1089.0|come down.|v|come adv:loc|down .
+22|1|1090.0|turn around.|v|turn adv:loc|around .
+"22|1|1091.0|no, that's not how you go down the stairs.|co|no pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ neg|not adv:wh|how pro|you v|go prep|down det|the n|stair-PL ."
+"22|1|1092.0|Anielle, no!|n:prop|Anielle co|no !"
+22|1|1093.0|turn around!|v|turn adv:loc|around !
+22|1|1094.0|and go down|conj:coo|and v|go adv:loc|down .
+22|1|1095.0|excuse me Zevy!|co|excuse+me n:prop|Zevy !
+22|1|1096.0|don't teach her that!|aux|do~neg|not v|teach pro|her pro:dem|that !
+22|1|1097.0|turn around and go on your tummy.|v|turn adv:loc|around conj:coo|and v|go prep|on pro:poss:det|your n|tummy .
+22|1|1098.0|on your tummy.|prep|on pro:poss:det|your n|tummy .
+22|1|1099.0|no.|co|no .
+22|1|1100.0|turn around.|v|turn adv:loc|around .
+22|1|1101.0|go like this.|v|go prep|like pro:dem|this .
+22|1|1102.0|down like that.|adv:loc|down v|like pro:dem|that .
+22|1|1103.0||
+22|1|1104.0|no!|co|no !
+22|1|1105.0|go around!|v|go adv:loc|around !
+22|1|1106.0|down like that.|adv:loc|down v|like pro:dem|that .
+22|1|1107.0|you can do down --|pro|you aux|can v|do adv:loc|down +...
+22|1|1108.0|that's how you go down.|pro:dem|that~v|be&3S^pro:dem|that~v|have&3S^ adv:wh|how pro|you v|go adv:loc|down .
+22|1|1109.0|Anielle?|n:prop|Anielle ?
+22|1|1110.0|turn around to go down.|v|turn adv:loc|around inf|to v|go adv:loc|down .
+"22|1|1111.0|Zevy, you have taught her a bad way to go down.|n:prop|Zevy pro|you aux|have v|teach&PAST pro|her det|a n|bad n|way inf|to v|go adv:loc|down ."
+22|1|1112.0|hey Zevy.|co|hey n:prop|Zevy .
+22|1|1113.0|it isn't safe for her to go down that way.|pro|it aux|be&3S~neg|not adj|safe prep|for pro|her inf|to v|go prep|down det|that n|way .
+22|1|1114.0|Zevy?|n:prop|Zevy ?
+22|1|1115.0|you want to go to the bath+room|pro|you aux|want inf|to v|go prep|to det|the n|+n|bath+n|room .
+"22|1|1116.0|you want to go to the bath+room, Zevy?|pro|you aux|want inf|to v|go prep|to det|the n|+n|bath+n|room n:prop|Zevy ?"
+22|1|1117.0|Sam?|n:prop|Sam ?
+22|1|1118.0|whose sandals are these?|det:wh|whose n|sandal-PL v|be&PRES pro:dem|these ?
+22|1|1119.0|please take your shoes away.|v|please n|take pro:poss:det|your n|shoe-PL ptl|away .
+22|1|1120.0|and your other shoes are here?|conj:coo|and pro:poss:det|your qn|other n|shoe-PL v|be&PRES adv:loc|here ?
+22|1|1121.0|you can't leave them laying around.|pro|you aux|can~neg|not v|leave pro|them part|lay-PROG adv:loc|around .
+22|1|1122.0|there's too many shoes laying around.|pro:exist|there~v|be&3S adv:int|too qn|many n|shoe-PL part|lay-PROG adv:loc|around .
+22|1|1123.0|---|
+22|1|1124.0|---|
+22|1|1125.0|---|
+22|1|1126.0|come on.|v|come ptl|on .
+22|1|1127.0|let's go away from the stairs.|aux|let's v|go adv|away prep|from det|the n|stair-PL .
+22|1|1128.0|I don't like that.|pro|I aux|do~neg|not prep|like pro:dem|that .
+22|1|1129.0|if you're not going to go down the proper way|conj:subor|if pro|you~aux|be&PRES neg|not aux|go-PROG inf|to v|go prep|down det|the adj|proper n|way .
+22|1|1130.0|then you are not going to go down them|adv:tem|then pro|you aux|be&PRES neg|not aux|go-PROG inf|to v|go prep|down pro|them .
+22|1|1131.0|are those animals?|v|be&PRES det|those n|animal-PL ?
+22|1|1132.0|---|
+22|1|1133.0|---|
+22|1|1134.0|where are you going?|adv:wh|where aux|be&PRES pro|you part|go-PROG ?
+22|1|1135.0|Anielle?|n:prop|Anielle ?
+22|1|1136.0|hmm?|fil|hmm ?
+22|1|1137.0|there's too much going on down here.|pro:exist|there~v|be&3S adv:int|too adv|much part|go-PROG ptl|on prep|down adv:loc|here .
+22|1|1138.0||
+22|1|1139.0|here you go.|co|here pro|you v|go .
+"22|1|1140.0|Zevy, you have to get dressed.|n:prop|Zevy pro|you aux|have inf|to v|get v|dress-PAST ."
+22|1|1141.0|you cannot go outside in your pajamas!|pro|you aux|can~neg|not v|go adv:loc|outside prep|in pro:poss:det|your adj|pajamas !
+22|1|1142.0|I'll get you dressed in one minute.|pro|I~aux|will v|get pro|you v|dress-PAST prep|in pro:indef|one n|minute .
+22|1|1143.0|come in the den.|v|come prep|in det|the n|den .
+22|1|1144.0|uh oh.|
+22|1|1145.0|Zevy!|n:prop|Zevy !
+22|1|1146.0|you will not be allowed to go out in your pajamas.|pro|you aux|will neg|not aux|be part|allow-PERF inf|to v|go adv:loc|out prep|in pro:poss:det|your adj|pajamas .
+22|1|1147.0|no!|co|no !
+22|1|1148.0|no!|co|no !
+22|1|1149.0|I will get you dressed.|pro|I aux|will v|get pro|you v|dress-PAST .
+22|1|1150.0|it will take me one minute!|pro|it aux|will v|take pro|me det:num|one n|minute !
+22|1|1151.0|don't put that on your head.|aux|do~neg|not v|put&ZERO pro:dem|that prep|on pro:poss:det|your n|head .
+"22|1|1152.0|Zevy, I won't let you out so|n:prop|Zevy pro|I aux|will~neg|not v|let&ZERO pro|you adv:loc|out conj:subor|so ."
+22|1|1153.0|there's no point in you going.|pro:exist|there~v|be&3S neg|no v|point prep|in pro|you aux|go-PROG .
+22|1|1154.0|excuse me.|co|excuse+me .
+22|1|1155.0|you may not go out!|pro|you aux|may neg|not v|go ptl|out !
+22|1|1156.0|go in the den and it will take me one minute to get you dressed.|v|go prep|in det|the n|den conj:coo|and pro|it aux|will v|take pro|me det:num|one n|minute inf|to v|get pro|you v|dress-PAST .
+"22|1|1157.0|clean up, clean up!|v|clean ptl|up v|clean ptl|up !"
+22|1|1158.0|everybody do your share!|pro:indef|everybody v|do pro:poss:det|your n|share !
+"22|1|1159.0|clean up, clean up!|v|clean ptl|up v|clean ptl|up !"
+"22|1|1160.0|Zevy, why don't you do it now?|n:prop|Zevy adv:wh|why aux|do~neg|not pro|you v|do pro|it adv|now ?"
+"22|1|1161.0|one, two, three in!|det:num|one det:num|two det:num|three prep|in !"
+22|1|1162.0|---|
+22|1|1163.0|---|
+22|1|1164.0|---|
+"22|1|1165.0|here, put your foot in|adv:loc|here v|put&ZERO pro:poss:det|your n|foot adv:loc|in ."
+22|1|1166.0|both feet|qn|both n|foot&PL .
+22|1|1167.0||
+22|1|1168.0||
+22|1|1169.0|Anielle?|n:prop|Anielle ?
+22|1|1170.0|do you want to go out?|aux|do pro|you aux|want inf|to v|go ptl|out ?
+22|1|1171.0|it's such a pretty day.|pro|it~v|be&3S^pro|it~v|have&3S^ qn|such det|a adj|pretty n|day .
+22|1|1172.0|do you want to go outside for a few minutes?|aux|do pro|you aux|want inf|to v|go adv:loc|outside prep|for det|a qn|few n|minute-PL ?
+22|1|1173.0|come to mama!|v|come prep|to n:prop|Mama !
+"22|1|1174.0|yes, I guess you don't want to go with us.|co|yes pro|I v|guess pro|you aux|do~neg|not aux|want inf|to v|go prep|with pro|us ."
+22|1|1175.0|---|
+22|1|1176.0|---|
+22|1|1177.0|---|
+22|1|1178.0||
+22|1|1179.0|mama bump her nosie.|n:prop|Mama v|bump pro|her n|nose-DIM .
+22|1|1180.0||
+"22|1|1181.0|oh, that's a squirrel.|pro:dem|that~v|be&3S det|a n|squirrel ."
+22|1|1182.0|not a doggie.|neg|not det|a n|dog-DIM .
+22|1|1183.0|say squirrel.|v|say n|squirrel .
+22|1|1184.0|can you say squirrel?|aux|can pro|you v|say n|squirrel ?
+22|1|1185.0||
+"22|1|1186.0|squirrel, right.|n|squirrel co|right ."
+22|1|1187.0|squirrel.|n|squirrel .
+22|1|1188.0|---|
+22|1|1189.0|---|
+22|1|1190.0|---|
+22|1|1191.0|stay by mama.|v|stay prep|by n:prop|Mama .
+22|1|1192.0||
+"22|1|1193.0|no, that's mama's.|co|no pro:dem|that~v|be&3S n:prop|Mama^n:prop|Mama-POSS^ ."
+22|1|1194.0|that's hot.|pro:dem|that~v|be&3S adj|hot .
+22|1|1195.0|hot|adj|hot .
+22|1|1196.0||
+22|1|1197.0|hot.|adj|hot .
+22|1|1198.0|squirrel.|n|squirrel .
+22|1|1199.0|what you got there?|pro:wh|what pro|you v|get&PAST^v|got^ adv:loc|there ?
+22|1|1200.0|stand up now.|v|stand ptl|up adv|now .
+"22|1|1201.0|stand,|n|stand +..."
+22|1|1202.0||
+22|1|1203.0|don't go bye+bye.|aux|do~neg|not v|go co|bye+bye .
+22|1|1204.0|stay by mama.|v|stay prep|by n:prop|Mama .
+22|1|1205.0|you guys stay in front of the house.|pro|you n|guy-PL n|stay prep|in n|front prep|of det|the n|house .
+22|1|1206.0|so I can see you.|conj:subor|so pro|I aux|can v|see pro|you .
+22|1|1207.0|ok|co|okay .
+22|1|1208.0||
+22|1|1209.0||
+22|1|1210.0|are you watching Sam?|aux|be&PRES pro|you part|watch-PROG n:prop|Sam ?
+"22|1|1211.0|god, it's beautiful out.|co|god pro|it~v|be&3S^pro|it~v|have&3S^ adj|beautiful adv:loc|out ."
+22|1|1212.0|say Sam.|v|say n:prop|Sam .
+"22|1|1213.0|Sam, turn around please!|n:prop|Sam v|turn adv:loc|around co|please !"
+22|1|1214.0||
+"22|1|1215.0|no, that's hot.|co|no pro:dem|that~v|be&3S adj|hot ."
+22|1|1216.0|hot.|adj|hot .
+22|1|1217.0||
+22|1|1218.0|don't get near it.|aux|do~neg|not aux|get v|near pro|it .
+22|1|1219.0|you cannot get near this.|pro|you aux|can~neg|not v|get prep|near pro:dem|this .
+22|1|1220.0|say hot.|v|say adj|hot .
+22|1|1221.0||
+"22|1|1222.0|yeah, hot.|co|yeah adj|hot ."
+22|1|1223.0|hot.|adj|hot .
+22|1|1224.0|can you say good girl?|aux|can pro|you v|say adj|good n|girl ?
+22|1|1225.0|good girl!|adj|good n|girl !
+22|1|1226.0||
+22|1|1227.0|good.|co|good .
+22|1|1228.0|good girl.|adj|good n|girl .
+22|1|1229.0|call Zevy.|v|call n:prop|Zevy .
+22|1|1230.0|tell Zevy to come home+.|v|tell n:prop|Zevy inf|to v|come ?|home+ .
+22|1|1231.0||
+22|1|1232.0|Zevy!|n:prop|Zevy !
+22|1|1233.0|say Zevy.|v|say n:prop|Zevy .
+22|1|1234.0|Sam?|n:prop|Sam ?
+22|1|1235.0|that helmet is so loose that if you fell it would do nothing to protect you.|det|that n|helmet v|be&3S adv:int|so adj|loose pro:dem|that conj:subor|if pro|you v|fall&PAST pro|it aux|will&COND v|do pro:indef|nothing inf|to v|protect pro|you .
+22|1|1236.0|the whole point is that it is supposed to be snug on your head.|det|the adj|whole n|point v|be&3S pro:dem|that pro|it aux|be&3S aux|supposed inf|to v|be adj|snug prep|on pro:poss:det|your n|head .
+22|1|1237.0|so it can protect your head.|conj:subor|so pro|it aux|can v|protect pro:poss:det|your n|head .
+22|1|1238.0|I can do that.|pro|I aux|can v|do pro:dem|that .
+22|1|1239.0|what?|pro:wh|what ?
+22|1|1240.0||
+22|1|1241.0|Anielle!|n:prop|Anielle !
+22|1|1242.0|wait one minute|v|wait det:num|one n|minute .
+22|1|1243.0|one minute!|det:num|one n|minute !
+"22|1|1244.0|Anielle, one minute.|n:prop|Anielle pro:indef|one n|minute ."
+22|1|1245.0|sweetie.|co:voc|sweetie .
+22|1|||
