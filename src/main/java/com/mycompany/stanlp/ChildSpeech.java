@@ -102,7 +102,7 @@ public class ChildSpeech {
                        sb.append("&");
                 }
                     sb.append("\n");
-                        
+                    break;
                 }
             }
         
