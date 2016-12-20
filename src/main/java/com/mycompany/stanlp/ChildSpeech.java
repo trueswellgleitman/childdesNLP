@@ -50,7 +50,7 @@ public class ChildSpeech {
     props.put("annotators", "tokenize, ssplit, pos, lemma, ner, parse, dcoref");
     StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
     TreeMap<String, String[]> tm = new TreeMap<String, String[]>();
-    String csvFile = "C:\\Users\\steve\\Downloads\\verbsome.csv";
+    String csvFile = "/Users/arelin/Downloads/verbsome.csv";
 	BufferedReader br = null;
 	String line = "";
 	String cvsSplitBy = ",";
@@ -92,14 +92,42 @@ public class ChildSpeech {
     List<CoreMap> sentences = document.get(SentencesAnnotation.class);
 
     for(CoreMap sentence: sentences) {
-   
+
+        Tree tree = sentence.get(TreeAnnotation.class);
+        for(Tree subTree : tree.subTrees()) {
+            if(subTree.isPhrasal()) {
+                System.out.println(subTree.labels().toArray()[0] + " and... " + subTree.toString());
+                if(subTree.labels().toArray()[0] == "VB" || 
+                        subTree.labels().toArray()[0] == "VBZ" || 
+                        subTree.labels().toArray()[0] == "VBP") {
+                    System.out.println(subTree.toString());
+                }
+                //System.out.println("Reached phrasal sub tree, checking for word");
+                if(subTree.toString().contains(value[0])) {
+                    String tempString = tree.toString();
+                    sb.append(entry.getKey());
+                    sb.append(",");
+                    sb.append(value[0]);
+                    sb.append(",");
+                    sb.append(tempString);
+                    sb.append(",");
+
+                    for(Label l : subTree.labels()) {
+                       sb.append(l.toString());
+                       sb.append("&");
+                }
+                    sb.append("\n");
+                }
+            }
+        
+        /*            
         for (CoreLabel token: sentence.get(TokensAnnotation.class)) {
         // this is the text of the token
         String word = token.get(TextAnnotation.class);
         //ArrayList<CoreLabel> al = new ArrayList();
         if(word.equals(value[0]))
         {
-            Tree tree = sentence.get(TreeAnnotation.class);
+
             //TregexPattern patternMW = TregexPattern.compile("VP([ >># VB | >># VBP | >># VBD] <<" + value[0] +
              //       ")");
             TregexPattern patternMW = TregexPattern.compile(" VP  [ <# VB | <# VBP | <# VBD] & <<" + value[0]);
@@ -142,6 +170,7 @@ public class ChildSpeech {
         // this is the NER label of the token
         //String ne = token.get(NamedEntityTagAnnotation.class);       
       }
+    */
       
 
 
@@ -152,7 +181,8 @@ public class ChildSpeech {
       //document.get(CorefChainAnnotation.class);
 
     }
-    pw.write(sb.toString());
+    }
+        pw.write(sb.toString());
         pw.close();
     }
     
