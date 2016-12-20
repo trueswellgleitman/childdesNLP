@@ -4,23 +4,13 @@
  * and open the template in the editor.
  */
 package com.mycompany.stanlp;
-import edu.stanford.nlp.dcoref.CorefCoreAnnotations.CorefChainAnnotation;
-import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
-import edu.stanford.nlp.ling.CoreAnnotations.PartOfSpeechAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
-import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
-import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
-import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.ling.Label;
 import edu.stanford.nlp.pipeline.Annotation;
 import java.util.Properties;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
-import edu.stanford.nlp.semgraph.SemanticGraph;
-import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations.CollapsedCCProcessedDependenciesAnnotation;
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreeCoreAnnotations.TreeAnnotation;
-import edu.stanford.nlp.trees.tregex.TregexMatcher;
-import edu.stanford.nlp.trees.tregex.TregexPattern;
 import edu.stanford.nlp.util.CoreMap;
 import java.io.BufferedReader;
 import java.io.File;
@@ -28,7 +18,6 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
@@ -59,7 +48,7 @@ public class ChildSpeech {
 
 		br = new BufferedReader(new FileReader(csvFile));
 		while ((line = br.readLine()) != null) {
-                        System.out.println("reached");
+                        //System.out.println("reached");
 			String[] country = line.split(cvsSplitBy);
                         String[] input = new String[2];
                         input[0] = country[0];
@@ -96,15 +85,11 @@ public class ChildSpeech {
         Tree tree = sentence.get(TreeAnnotation.class);
         for(Tree subTree : tree.subTrees()) {
             if(subTree.isPhrasal()) {
-                System.out.println(subTree.labels().toArray()[0] + " and... " + subTree.toString());
-                if(subTree.labels().toArray()[0] == "VB" || 
-                        subTree.labels().toArray()[0] == "VBZ" || 
-                        subTree.labels().toArray()[0] == "VBP") {
-                    System.out.println(subTree.toString());
-                }
+                //System.out.println(subTree.label().toString() + " and... " + subTree.toString());
                 //System.out.println("Reached phrasal sub tree, checking for word");
-                if(subTree.toString().contains(value[0])) {
-                    String tempString = tree.toString();
+                if(subTree.label().toString().equals("VP") && subTree.toString().contains(value[0])) {
+                    System.out.println(subTree.toString());
+                    String tempString = subTree.toString();
                     sb.append(entry.getKey());
                     sb.append(",");
                     sb.append(value[0]);
@@ -117,6 +102,7 @@ public class ChildSpeech {
                        sb.append("&");
                 }
                     sb.append("\n");
+                        
                 }
             }
         
