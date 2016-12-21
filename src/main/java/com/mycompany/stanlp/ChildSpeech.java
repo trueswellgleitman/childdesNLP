@@ -18,6 +18,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
@@ -38,7 +39,7 @@ public class ChildSpeech {
     Properties props = new Properties();
     props.put("annotators", "tokenize, ssplit, pos, lemma, ner, parse, dcoref");
     StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
-    TreeMap<String, String[]> tm = new TreeMap<String, String[]>();
+    LinkedList<String[]> tm = new LinkedList<>();
     String csvFile = "/Users/arelin/Downloads/verbsome.csv";
 	BufferedReader br = null;
 	String line = "";
@@ -52,8 +53,16 @@ public class ChildSpeech {
 			String[] country = line.split(cvsSplitBy);
                         String[] input = new String[2];
                         input[0] = country[0];
-                        input[1] = country[5];
-                        tm.put(country[4], input);
+                        StringBuilder sentence = new StringBuilder();
+                        sentence.append(country[5]);
+                        if(country.length > 5) {
+                            for(int i = 6; i < country.length; i++) {
+                                sentence.append(", ");
+                                sentence.append(country[i]);
+                            }
+                        }
+                        input[1] = sentence.toString();
+                        tm.add(input);
                         
 
 		}
@@ -73,8 +82,7 @@ public class ChildSpeech {
 	}
     
     
-    for (  Map.Entry<String, String[]> entry : tm.entrySet()) {
-    String[] value = entry.getValue();
+    for (  String[] value : tm) {
     Annotation document = new Annotation(value[1]);
 
     pipeline.annotate(document);
@@ -88,11 +96,11 @@ public class ChildSpeech {
                 //System.out.println(subTree.label().toString() + " and... " + subTree.toString());
                 //System.out.println("Reached phrasal sub tree, checking for word");
                 String val = subTree.label().toString();
-                if((val.equals("VP") || val.equals("WHNP") || val.equals("WHADVP")) && subTree.toString().contains(value[0])) {
+                if((val.equals("VP") || val.equals("WHNP") || val.equals("WHADVP") || val.equals("SQ")) && subTree.toString().contains(value[0])) {
                     System.out.println(subTree.toString());
                     String tempString = subTree.toString();
-                    sb.append(entry.getKey());
-                    sb.append(",");
+                    //sb.append(entry.getKey());
+                    //sb.append(",");
                     sb.append(value[0]);
                     sb.append(",");
                     sb.append(tempString);
