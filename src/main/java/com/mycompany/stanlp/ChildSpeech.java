@@ -97,9 +97,11 @@ public class ChildSpeech {
                     sb.append(tempString);
                     sb.append(",");
 
-                    for(Label l : subTree.labels()) {
-                       sb.append(l.toString());
-                       sb.append("&");
+                    for(Tree sub : subTree.subTreeList()) {
+                       if(sub.isPhrasal()) {
+                        sb.append(sub.label().toString());
+                        sb.append("&");
+                    }
                 }
                     sb.append("\n");
                     break;
