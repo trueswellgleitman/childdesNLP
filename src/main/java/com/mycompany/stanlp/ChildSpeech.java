@@ -83,11 +83,12 @@ public class ChildSpeech {
     for(CoreMap sentence: sentences) {
 
         Tree tree = sentence.get(TreeAnnotation.class);
-        for(Tree subTree : tree.subTrees()) {
+        for(Tree subTree : tree.subTreeList()) {
             if(subTree.isPhrasal()) {
                 //System.out.println(subTree.label().toString() + " and... " + subTree.toString());
                 //System.out.println("Reached phrasal sub tree, checking for word");
-                if(subTree.label().toString().equals("VP") && subTree.toString().contains(value[0])) {
+                String val = subTree.label().toString();
+                if((val.equals("VP") || val.equals("WHNP") || val.equals("WHADVP")) && subTree.toString().contains(value[0])) {
                     System.out.println(subTree.toString());
                     String tempString = subTree.toString();
                     sb.append(entry.getKey());
