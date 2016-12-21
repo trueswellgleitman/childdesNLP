@@ -1,0 +1,306 @@
+10220100008,play,(VP (VB play) (PP (IN with) (NP (NP (NN mommy) (POS 's)) (NN hand)))),VP&PP&NP&NP&
+10220100016,want,(VP (VB want)),VP&
+10220100023,open,(VP (VBZ figures) (PRT (RP out)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB open) (NP (NNS things))))))),VP&PRT&SBAR&WHADVP&S&VP&VP&NP&
+10220100033,know,(VP (VBP do) (RB n't) (VP (VB know))),VP&VP&
+10220100040,play,(VP (VBP want) (S (VP (TO to) (VP (VB go) (VP (VB play) (PP (IN with) (NP (DT some) (NNS toys)))))))),VP&S&VP&VP&VP&PP&NP&
+10220100055,say,(VP (VBP say)),VP&
+10220100057,want,(VP (VBP want) (NP (NP (DT some)) (PP (IN of) (NP (NP (NNP Zevy) (POS 's)) (NN cereal))))),VP&NP&NP&PP&NP&NP&
+10220100058,give,(VP (VBP want) (S (NP (PRP him)) (VP (TO to) (VP (VB give) (NP (PRP you)) (NP (CD one) (NN piece)))))),VP&S&NP&VP&VP&NP&NP&
+10220100061,milk,(VP (MD can) (VP (VB have) (NP (NN milk)) (ADVP (RB now)))),VP&VP&NP&ADVP&
+10220100062,remember,(VP (VBP remember) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBD was) (NP (DT a) (NN baby)))))),VP&SBAR&WHADVP&S&NP&VP&NP&
+10220100071,say,(VP (VB say) (NP (RBR more))),VP&NP&
+10220100072,tell,(VP (VB tell) (NP (NNP Zevy)) (ADVP (RBR more))),VP&NP&ADVP&
+10220100086,hear,(VP (VBD did) (RB n't) (VP (VB hear) (NP (PRP her)))),VP&VP&NP&
+10220100088,repeat,(VP (VBD repeated) (NP (PRP it))),VP&NP&
+10220100095,play,(VP (VBP go) (CC and) (VBP play) (PP (IN with) (NP (DT the) (JJ real) (NNS toys)))),VP&PP&NP&
+10220100102,want,(VP (VB want)),VP&
+10220100108,give,(VP (MD 'll) (VP (VB give) (NP (PRP you)) (NP (PRP$ your) (JJ own) (NN cereal)))),VP&VP&NP&NP&
+10220100109,want,(VP (VBP want) (NP (PRP$ your) (JJ own))),VP&NP&
+10220100112,want,(VP (VB want) (NP (DT these))),VP&NP&
+10220100119,hurt,(VP (VBZ hurts)),VP&
+10220100124,bump,(VP (VBP bump) (ADVP (RB ###))),VP&ADVP&
+10220100125,bump,(VP (VBP bump) (ADVP (RB ###))),VP&ADVP&
+10220100128,hurt,(VP (VBN hurt) (ADVP (RB badly))),VP&ADVP&
+10220100138,know,(VP (VBP know)),VP&
+10220100141,hurt,(VP (VBD hurt)),VP&
+10220100147,see,(VP (VB see) (NP (PRP$ your) (NN kappie))),VP&NP&
+10220100161,hurt,(VP (VBZ hurts)),VP&
+10220100163,hurt,(VP (VBZ hurts)),VP&
+10220100165,want,(VP (VB want)),VP&
+10220100166,want,(VP (VB want)),VP&
+10220100168,want,(VP (VBP want) (NP (DT a) (NN something))),VP&NP&
+10220100169,want,(VP (VBP want) (NP (NN something))),VP&NP&
+10220100170,want,(VP (VBP want) (NP (DT a) (NN bottle))),VP&NP&
+10220100171,want,(VP (VBP want) (NP (DT a) (NN bottle))),VP&NP&
+10220100180,head,(VP (VBD hit) (NP (PRP$ her) (NN head))),VP&NP&
+10220100190,go,(VP (VB go) (PP (TO to) (NP (NN mama)))),VP&PP&NP&
+10220100191,bring,(VP (VB bring) (NP (DT the) (NN bottle)) (PP (TO to) (NP (NN mama)))),VP&NP&PP&NP&
+10220100192,take,(VP (`` ``) (VB take) (ADVP (PRP it))),VP&ADVP&
+10220100193,rock,(VP (MD 'll) (VP (VB rock) (NP (PRP you)))),VP&VP&NP&
+10220100194,rock,(VP (VB want) (S (NP (PRP me)) (VP (TO to) (VP (VB rock) (NP (PRP you)))))),VP&S&NP&VP&VP&NP&
+10220100196,rock,(VP (VBP want) (S (NP (PRP me)) (VP (TO to) (VP (VB rock) (NP (PRP you)))))),VP&S&NP&VP&VP&NP&
+10220100205,hate,(VP (VBP hate) (NP (DT those) (NNS chairs))),VP&NP&
+10220100213,blanket,(VP (VBP do) (RB n't) (VP (VB have) (NP (NNS blankets)))),VP&VP&NP&
+10220100217,make,(VP (VBP want) (S (VP (TO to) (VP (VB make) (S (VP (VBG rocking))))))),VP&S&VP&VP&S&VP&
+10220100218,rock,(VP (VB rock) (NP (PRP you))),VP&NP&
+10220100220,rock,(VP (VB rock) (NP (PRP you))),VP&NP&
+10220100226,sell,(VP (VB sell) (NP (DT the) (NN house))),VP&NP&
+10220100229,go,(VP (VBP want) (S (VP (TO to) (VP (VB go) (VP (VB play)))))),VP&S&VP&VP&VP&
+10220100232,say,(VP (VB say) (INTJ (UH hi)) (PP (TO to) (NP (NNP Johnny)))),VP&INTJ&PP&NP&
+10220100234,lay,(VP (VB do) (SBAR (S (NP (PRP you)) (ADVP (RB just)) (VP (VBP want) (S (VP (TO to) (VP (VB lay) (ADVP (RB back))))))))),VP&SBAR&S&NP&ADVP&VP&S&VP&VP&ADVP&
+10220100243,play,(VP (VBP want) (S (VP (TO to) (VP (VB go) (VP (VB play) (PP (IN with) (NP (NNP Zevy)))))))),VP&S&VP&VP&VP&PP&NP&
+10220100245,play,(VP (VBP want) (S (VP (TO to) (VP (VB go) (VP (VB play) (PP (IN with) (NP (NNP Zevy)))))))),VP&S&VP&VP&VP&PP&NP&
+10220100246,go,(VP (VBP want) (S (VP (TO to) (VP (VB go) (VP (VB play)))))),VP&S&VP&VP&VP&
+10220100248,play,(VP (VBZ wants) (S (VP (TO to) (VP (VB go) (VP (VB play) (PP (IN with) (NP (NNP Zevy)))))))),VP&S&VP&VP&VP&PP&NP&
+10220100251,use,(VP (MD will) (VP (VB be) (VP (VBN taken) (ADVP (RB away)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN used) (PP (IN as) (NP (DT a) (NN weapon)))))))))),VP&VP&VP&ADVP&SBAR&S&NP&VP&VP&PP&NP&
+10220100254,think,(VP (VBP do) (RB n't) (VP (VB think))),VP&VP&
+10220100255,play,(VP (VB want) (S (VP (TO to) (VP (VB play) (PP (IN with) (NP (PRP$ your) (NN toy))))))),VP&S&VP&VP&PP&NP&
+10220100256,turn,(VP (VB turn) (NP (PRP it)) (PP (IN on))),VP&NP&PP&
+10220100261,see,(VP (VB do) (S (NP (PRP you)) (VP (VP (VB see) (NP (DT a) (NN butter))) (CC +) (VP (VB fly))))),VP&S&NP&VP&VP&NP&VP&
+10220100264,see,(VP (VB do) (S (NP (PRP you)) (VP (VB see) (NP (CD one))))),VP&S&NP&VP&NP&
+10220100272,see,(VP (MD can) (VP (VP (VB try) (NP (PRP it)) (ADVP (RB again))) (CC and) (VP (VB see) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN broken) (ADVP (RB still))))))))),VP&VP&VP&NP&ADVP&VP&SBAR&S&NP&VP&VP&ADVP&
+10220100280,watch,(VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP get) (S (VP (TO to) (VP (VB watch) (PP (IN in) (NP (DT the) (NN morning)))))))))),VP&SBAR&WHNP&S&NP&VP&S&VP&VP&PP&NP&
+10220100282,know,(VP (VBP know) (SBAR (S (NP (NNP Kaiu) (CC and) (NNP Zevy)) (VP (VBP are) (NP (DT the) (JJ same) (NN age)))))),VP&SBAR&S&NP&VP&NP&
+10220100283,go,(VP (VB go) (SBARQ (WHADVP (WRB where)))),VP&SBARQ&WHADVP&
+10220100292,thread,(VP (MD ca) (RB n't) (VP (VB get) (NP (NP (DT this)) (VP (VBN rethreaded))))),VP&VP&NP&NP&VP&
+10220100298,think,(VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (PRP I)) (VP (MD can) (VP (VB do) (NP (PRP it)) (ADVP (RB right) (RB now)))))))),VP&VP&SBAR&S&NP&VP&VP&NP&ADVP&
+10220100336,make,(VP (`` ``) (VB make) (ADVP (JJ nice))),VP&ADVP&
+10220100337,make,(VP (VB make) (ADJP (JJ nice))),VP&ADJP&
+10220100341,leave,(VP (VBZ has) (S (VP (TO to) (VP (VB leave) (ADVP (RB now)))))),VP&S&VP&VP&ADVP&
+10220100342,start,(VP (VBP 're) (RB not) (VP (VBG getting) (SBAR (S (NP (DT the) (NNP Toyota)) (VP (VBD started)))))),VP&VP&SBAR&S&NP&VP&
+10220100353,like,(VP (VBP do) (RB n't) (VP (VB like))),VP&VP&
+10220100355,like,(VP (VBZ does) (RB n't) (VP (VB like) (NP (DT the) (NN car)) (ADVP (RB anyway)))),VP&VP&NP&ADVP&
+10220100370,say,(VP (VB say) (NP (JJ good) (NN girl))),VP&NP&
+10220100371,show,(VP (VBD showed) (NP (PRP$ her) (NN nose))),VP&NP&
+10220100374,know,(VP (VB do) (S (NP (PRP you)) (VP (VB know)))),VP&S&NP&VP&
+10220100377,fall,(VP (VBG going) (S (VP (TO to) (VP (VB fall) (ADVP (RB again)))))),VP&S&VP&VP&ADVP&
+10220100380,tell,(VP (VB tell) (NP (PRP her) (DT no))),VP&NP&
+10220100382,say,(VP (VB say) (NP (DT no))),VP&NP&
+10220100383,tell,(VP (VBP have) (S (VP (TO to) (VP (VB tell) (NP (PRP$ her)))))),VP&S&VP&VP&NP&
+10220100385,tell,(VP (VBP tell) (S (NP (PRP$ her)) (NP (DT no)))),VP&S&NP&NP&
+10220100386,sound,(VP (VBP sound) (ADJP (RB very) (JJ serious))),VP&ADJP&
+10220100387,bite,(VP (VB say) (NP (NP (DT no)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBZ bites) (NP (PRP you))))))),VP&NP&NP&SBAR&WHADVP&S&NP&VP&NP&
+10220100398,make,(VP (VBP make) (ADJP (JJ nice))),VP&ADJP&
+10220100410,take,(VP (VB want) (S (VP (TO to) (VP (VB take) (NP (PRP$ your) (NNS toys)) (PRT (RP off)))))),VP&S&VP&VP&NP&PRT&
+10220100411,take,(VP (VB take) (NP (DT the) (NNS rings)) (PRT (RP off))),VP&NP&PRT&
+10220100412,take,(VP (VB take) (NP (DT the) (NNS rings)) (PRT (RP off))),VP&NP&PRT&
+10220100413,take,(VP (VB take) (NP (DT these)) (PRT (RP off))),VP&NP&PRT&
+10220100414,put,(VP (VBP want) (S (VP (TO to) (VP (VB put) (NP (PRP them)) (PP (IN on)))))),VP&S&VP&VP&NP&PP&
+10220100416,put,(VP (VB put) (NP (PRP them)) (PP (IN on))),VP&NP&PP&
+10220100419,make,(VP (VBZ makes) (NP (DT a) (NN noise))),VP&NP&
+10220100425,put,(VP (VB put) (NP (DT the) (JJ red) (NN one)) (PP (IN on) (NP (JJ first)))),VP&NP&PP&NP&
+10220100427,give,(VP (VB give) (NP (PRP her))),VP&NP&
+10220100428,let,(VP (`` ``) (VB let) (S (NP (PRP her)) (VP (VB do) (NP (PRP it))))),VP&S&NP&VP&NP&
+10220100429,let,(VP (`` ``) (VB let) (S (NP (PRP her)) (VP (VB do) (NP (PRP it))))),VP&S&NP&VP&NP&
+10220100430,figure,(VP (MD 'll) (VP (VB figure) (NP (PRP it)) (PRT (RP out)))),VP&VP&NP&PRT&
+10220100431,come,(VP (`` ``) (VBN come) (ADVP (RB here))),VP&ADVP&
+10220100439,put,(VP (VBP want) (S (VP (TO to) (VP (VB put) (NP (DT the) (JJ green) (CD one)))))),VP&S&VP&VP&NP&
+10220100445,pay,(VP (VBP do) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB pay) (NP (NN attention)) (PP (TO to) (NP (PRP her)))))))),VP&VP&S&VP&VP&NP&PP&NP&
+10220100450,know,(VP (VBP know) (SBAR (WHNP (WHADJP (WRB how) (JJ many)) (NNS pictures)) (S (NP (PRP I)) (VP (VBP have) (VP (PP (IN of) (NP (PRP you)))))))),VP&SBAR&WHNP&WHADJP&S&NP&VP&VP&PP&NP&
+10220100457,say,(VP (VB say) (NP (NN pail))),VP&NP&
+10220100458,give,(VP (VB give) (NP (PRP me)) (NP (DT a) (NN morning) (NN kiss))),VP&NP&NP&
+10220100459,give,(VP (VB give) (NP (PRP me)) (NP (DT a) (NN morning) (NN kiss))),VP&NP&NP&
+10220100464,watch,(VP (VBP want) (S (VP (TO to) (VP (VB watch) (NP (NNP Sagwa)))))),VP&S&VP&VP&NP&
+10220100474,concern,(VP (VBZ 's) (ADJP (RB so) (JJ concerned) (PP (IN about) (NP (PRP you))))),VP&ADJP&PP&NP&
+10220100476,see,(VP (VB do) (S (NP (PRP you)) (VP (VB see) (NP (DT the) (NN bird))))),VP&S&NP&VP&NP&
+10220100479,put,(VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB put) (PRT (RP on)) (NP (NP (NNP Baby_Mozart)) (PP (IN for) (NP (PRP$ her))))))))))),VP&SBAR&S&NP&VP&S&VP&VP&PRT&NP&NP&PP&NP&
+10220100481,put,(VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB put) (PRT (RP on)) (NP (NP (NN Baby_Mozart)) (CC or) (NP (NP (NNP Baby) (NNP Einstein)) (PP (IN for) (NP (PRP$ her)))))))))))),VP&SBAR&S&NP&VP&S&VP&VP&PRT&NP&NP&NP&NP&PP&NP&
+10220100496,say,(VP (VB say) (NP (NP (NN lady)) (CC +) (NP (NN bug)))),VP&NP&NP&NP&
+10220100498,worry,(VP (VBP do) (RB n't) (VP (VB worry) (PP (IN about) (NP (PRP it))))),VP&VP&PP&NP&
+10220100501,put,(VP (VBP put) (PP (IN on) (NP (NP (NN Baby_Mozart)) (PP (IN for) (NP (PRP$ her)))))),VP&PP&NP&NP&PP&NP&
+10220100507,come,(VP (VBN come) (ADVP (RB here))),VP&ADVP&
+10220100510,come,(VP (VBN come) (ADVP (RB here))),VP&ADVP&
+10220100511,come,(VP (VBN come) (S (VP (TO to) (VP (VB mama))))),VP&S&VP&VP&
+10220100516,frustrate,(VP (VBN frustrated)),VP&
+10220100518,frustrate,(VP (VBN frustrated)),VP&
+10220100519,get,(VP (VB want) (S (VP (TO to) (VP (VB go) (VP (VB get) (NP (DT the) (NN lady) (CC +) (NN bug))))))),VP&S&VP&VP&VP&NP&
+10220100520,put,(VP (VB put) (NP (PRP it)) (PP (IN on) (NP (DT the)))),VP&NP&PP&NP&
+10220100524,ask,(VP (VBP want) (S (VP (TO to) (VP (VB ask) (NP (NNP Anielle) (DT a) (NN question)))))),VP&S&VP&VP&NP&
+10220100525,know,(VP (VB do) (S (NP (PRP you)) (VP (VB know) (SBAR (WHADVP (WRB where)) (S (NP (NN Big_Bird)) (VP (VBZ is))))))),VP&S&NP&VP&SBAR&WHADVP&S&NP&VP&
+10220100530,get,(VP (VB want) (S (VP (TO to) (VP (VB go) (VP (VB get) (NP (NP (DT the) (NN toy)) (PP (IN for) (NP (NNP Big_Bird))))))))),VP&S&VP&VP&VP&NP&NP&PP&NP&
+10220100533,get,(VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB get) (NP (DT the) (NN toy) (NN Big_Bird))))))))),VP&SBAR&S&NP&VP&S&VP&VP&NP&
+10220100534,like,(VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (CC and) (VB get) (NP (DT those) (JJ little) (NN statue) (NNS toys)) (SBAR (IN that) (S (NP (PRP she)) (VP (VBZ likes))))))))))),VP&SBAR&S&NP&VP&S&VP&VP&NP&SBAR&S&NP&VP&
+10220100550,find,(VP (VB find) (NP (NNP Big_Bird))),VP&NP&
+10220100565,open,(VP (VB say) (ADJP (JJ open))),VP&ADJP&
+10220100570,dress,(VP (VBP want) (S (VP (TO to) (VP (VB get) (VP (VBN dressed)))))),VP&S&VP&VP&VP&
+10220100571,go,(VP (MD can) (VP (VB go) (PRT (RP out)))),VP&VP&PRT&
+10220100579,get,(VP (VB let) (S (NP (PRP me)) (VP (VB get) (NP (PRP$ your) (NNS clothes))))),VP&S&NP&VP&NP&
+10220100581,know,(VP (VBP know)),VP&
+10220100583,dress,(VP (VBG going) (S (VP (TO to) (VP (VP (VB come) (PP (IN in) (NP (DT the) (NN den)))) (CC and) (VP (VB get) (VP (VBN dressed) (PP (IN with) (NP (PRP me))))))))),VP&S&VP&VP&VP&PP&NP&VP&VP&PP&NP&
+10220100585,leave,(VP (`` ``) (VBP do) (RB n't) (VP (VB leave))),VP&VP&
+10220100596,dress,(VP (VB want) (S (VP (TO to) (VP (VB get) (VP (VBN dressed)))))),VP&S&VP&VP&VP&
+10220100597,dress,(VP (VBP get) (S (VP (VBN dressed)))),VP&S&VP&
+10220100600,believe,(VP (VBP believe) (SBAR (S (NP (DT that)) (VP (VBZ 's) (NP (DT the) (NN front)))))),VP&SBAR&S&NP&VP&NP&
+10220100603,wear,(VP (MD 'll) (VP (VB wear) (NP (PRP$ yours)))),VP&VP&NP&
+10220100604,dress,(VP (`` ``) (VBP do) (NP (NP (PRP you)) (SBAR (S (VP (VB want))))) (PP (TO to)) (SBAR (VB get) (S (VP (VBN dressed))))),VP&NP&NP&SBAR&S&VP&PP&SBAR&S&VP&
+10220100605,play,(VP (MD can) (VP (VB play) (ADVP (JJ outside)))),VP&VP&ADVP&
+10220100606,go,(VP (VBP want) (S (VP (TO to) (VP (VB go) (PP (IN in) (NP (DT the) (NN den))))))),VP&S&VP&VP&PP&NP&
+10220100608,go,(VP (VB let) (S (NP (POS 's)) (VP (VB go) (PP (IN in) (NP (DT the) (NN den)))))),VP&S&NP&VP&PP&NP&
+10220100610,bring,(VP (VBP want) (S (VP (TO to) (VP (VB bring) (S (NP (DT that)) (VP (TO to) (VP (VB mama)))))))),VP&S&VP&VP&S&NP&VP&VP&
+10220100618,want,(VP (VBP want) (NP (DT the) (NNS dice))),VP&NP&
+10220100624,bring,(VP (VB bring) (S (NP (NNP Big_Bird)) (VP (TO to) (VP (VB mama))))),VP&S&NP&VP&VP&
+10220100625,bring,(VP (VB bring) (NP (FW mama)) (NP (NN Big_Bird))),VP&NP&NP&
+10220100628,look,(VP (VB look) (PP (IN behind) (NP (PRP you)))),VP&PP&NP&
+10220100639,happen,(VP (VBD happened)),VP&
+10220100640,happen,(VP (VBD happened)),VP&
+10220100643,watch,(VP (VBP want) (S (VP (TO to) (VP (VB watch) (NP (NNP Baby_Mozart)))))),VP&S&VP&VP&NP&
+10220100647,key,(WHNP (WP$ whose) (NNS keys)),WHNP&
+10220100650,let,(VP (VB let) (NP (PRP her))),VP&NP&
+10220100654,watch,(VP (`` ``) (VB go) (S (S (VP (VB watch))) (ADJP (NNP Baby_Mozart)))),VP&S&S&VP&ADJP&
+10220100655,look,(VP (VB look)),VP&
+10220100660,look,(VP (VB look) (PP (IN at) (NP (NP (DT the) (NN teddy)) (CC +) (NP (NN bear))))),VP&PP&NP&NP&NP&
+10220100663,say,(VP (VB say) (NP (NNP Teddy))),VP&NP&
+10220100667,say,(VP (VB say) (NP (DT the) (NNS letters))),VP&NP&
+10220100668,say,(VP (VB say) (NP (DT the) (NNS letters))),VP&NP&
+10220100677,come,(VP (`` ``) (VBN come) (ADVP (RB here))),VP&ADVP&
+10220100678,dress,(VP (VB let) (S (NP (PRP me)) (VP (VB get) (S (NP (PRP you)) (VP (VBN dressed)))))),VP&S&NP&VP&S&NP&VP&
+10220100680,love,(VP (MD 'll) (VP (VB love) (NP (DT this)) (PP (IN in) (PP (IN about) (NP (CD four) (NNS months)))))),VP&VP&NP&PP&PP&NP&
+10220100690,look,(VP (MD can) (NP (PRP you)) (S (VP (VB look) (ADVP (IN at))))),VP&NP&S&VP&ADVP&
+10220100692,come,(VP (VBN come) (PP (IN into) (NP (NP (DT the) (NN living)) (CC +) (NP (NN room)))) (PP (IN with) (NP (NP (PRP me)) (ADJP (JJ real) (JJ quick))))),VP&PP&NP&NP&NP&PP&NP&NP&ADJP&
+10220100693,dress,(VP (MD 'll) (VP (VB get) (S (NP (PRP you)) (VP (VBN dressed) (SBAR (IN while) (S (NP (PRP she)) (VP (VBZ is) (VP (VBG watching) (NP (DT this)))))))))),VP&VP&S&NP&VP&SBAR&S&NP&VP&VP&NP&
+10220100698,take,(VP (VB take) (NP (DT the) (NNS keys)) (ADVP (IN out) (PP (IN of) (NP (PRP$ your) (NN mouth))))),VP&NP&ADVP&PP&NP&
+10220100702,watch,(VP (VBP watch)),VP&
+10220100703,watch,(VP (VBP watch) (NP (NNP Mozart))),VP&NP&
+10220100705,talk,(VP (VBP do) (RB n't) (VP (VB talk) (PP (IN like) (NP (DT a) (NN baby))))),VP&VP&PP&NP&
+10220100708,say,(VP (VB say)),VP&
+10220100709,say,(VP (VB say)),VP&
+10220100713,make,(VP (`` ``) (VBP do) (RB n't) (VP (VB make))),VP&VP&
+10220100718,say,(VP (VB say)),VP&
+10220100725,say,(VP (VB say) (NP (NN train))),VP&NP&
+10220100732,light,(VP (VBZ is) (ADVP (IN that)) (NP (NNS lights))),VP&ADVP&NP&
+10220100744,sit,(VP (VB want) (S (VP (TO to) (VP (VB sit) (PP (IN with) (NP (NN mama))))))),VP&S&VP&VP&PP&NP&
+10220100746,want,(VP (VBP want) (NP (DT the) (NNS dice))),VP&NP&
+10220100747,hold,(VP (VBP want) (SBAR (S (NP (FW mama)) (VP (VBP hold) (NP (PRP you)))))),VP&SBAR&S&NP&VP&NP&
+10220100749,make,(VP (VB make)),VP&
+10220100751,call,(VP (VBN called)),VP&
+10220100759,say,(VP (VB say) (PRT (RP up))),VP&PRT&
+10220100765,clap,(VP (`` ``) (VB clap) (NP (NP (PRP$ your)) (NP (NNS hands)))),VP&NP&NP&NP&
+10220100769,play,(VP (VB like) (S (VP (TO to) (VP (VB learn) (S (VP (TO to) (VP (VB play) (NP (NP (DT that)) (PP (IN on) (NP (DT the) (NN piano))))))))))),VP&S&VP&VP&S&VP&VP&NP&NP&PP&NP&
+10220100770,play,(VP (VBZ 's) (VP (VBG being) (VP (VBN played)))),VP&VP&VP&
+10220100774,give,(VP (VB give) (S (VP (TO to) (VP (VB mama))))),VP&S&VP&VP&
+10220100775,put,(VP (VBG going) (S (VP (TO to) (VP (VB put) (NP (PRP it)) (PP (IN in) (NP (DT the) (NN bucket))))))),VP&S&VP&VP&NP&PP&NP&
+10220100788,watch,(VP (VBG going) (S (VP (TO to) (VP (VB watch) (NP (DT the) (NN video)))))),VP&S&VP&VP&NP&
+10220100789,look,(VP (VB look) (PP (IN at) (NP (DT the) (NNS colors)))),VP&PP&NP&
+10220100809,look,(VP (VB look) (PP (IN at) (NP (DT the) (NNS balls)))),VP&PP&NP&
+10220100812,like,(VP (VBZ looks) (NP (JJR more)) (PP (IN like) (NP (DT a) (NN castle)))),VP&NP&PP&NP&
+10220100814,put,(VP (VBD put) (NP (ADJP (RB too) (JJ many)) (NNS balls)) (PP (IN in) (NP (PRP it)))),VP&NP&ADJP&PP&NP&
+10220100818,put,(VP (VBD put) (NP (DT the) (JJ wrong) (NNS balls)) (PP (IN in) (NP (RB here)))),VP&NP&PP&NP&
+10220100821,go,(VP (VB go) (PP (IN in) (NP (DT the) (JJ other)))),VP&PP&NP&
+10220100823,put,(VP (VBP want) (S (VP (TO to) (VP (VB put) (NP (PRP them)) (PP (IN in)))))),VP&S&VP&VP&NP&PP&
+10220100824,look,(VP (VB look) (NP (PRP it))),VP&NP&
+10220100827,sit,(VP (VBP want) (S (VP (TO to) (VP (VB sit) (PRT (RP down)) (PP (IN on) (NP (NP (NN mama) (POS 's)) (NN lap))))))),VP&S&VP&VP&PRT&PP&NP&NP&
+10220100833,go,(VP (VBZ is) (NP (NP (DT the) (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ goes) (PP (TO to) (NP (RB here)))))))),VP&NP&NP&SBAR&WHNP&S&VP&PP&NP&
+10220100834,watch,(VP (VBP want) (S (VP (TO to) (VP (VB watch) (NP (DT the) (NN video)) (PP (IN with) (NP (NN mommy))))))),VP&S&VP&VP&NP&PP&NP&
+10220100835,look,(VP (VB look)),VP&
+10220100837,go,(VP (VBZ does) (RB n't) (VP (VB go) (PP (IN in) (NP (EX there))))),VP&VP&PP&NP&
+10220100851,say,(VP (VB say) (NP (NN cow))),VP&NP&
+10220100870,say,(VP (VB say) (NP (NN rooster))),VP&NP&
+10220100876,eat,(VP (VBP do) (RB n't) (VP (VB eat) (NP (DT the) (NN box)))),VP&VP&NP&
+10220100883,wave,(VP (VBP wave) (NP (UH hi)) (PP (TO to) (NP (PRP$ her)))),VP&NP&PP&NP&
+10220100884,say,(VP (VB say) (FRAG (INTJ (UH hi) (. !)))),VP&FRAG&INTJ&
+10220100887,pick,(VP (VB let) (S (NP (PRP her)) (VP (VB pick) (PRT (RP out)) (NP (NN Big_Bird))))),VP&S&NP&VP&PRT&NP&
+10220100895,go,(VP (VBZ goes) (PP (IN in) (NP (DT that) (CD one)))),VP&PP&NP&
+10220100897,let,(VP (VBP do) (RB n't) (VP (VB have) (S (VP (TO to) (VP (ADVP (RB just)) (VB let) (S (NP (PRP him)) (VP (VB do) (NP (NNS things)) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB want) (S (NP (PRP him)) (VP (TO to) (VP (VB do))))))))))))))),VP&VP&S&VP&VP&ADVP&S&NP&VP&NP&SBAR&S&NP&VP&VP&S&NP&VP&VP&
+10220100910,say,(VP (VB say) (PP (IN on))),VP&PP&
+10220100911,keep,(VP (VB let) (S (NP (POS 's)) (VP (VB keep) (NP (PRP it)) (PP (IN on))))),VP&S&NP&VP&NP&PP&
+10220100917,want,(VP (VBP want) (NP (PRP it)) (PP (IN on))),VP&NP&PP&
+10220100919,hit,(VP (`` ``) (VBP do) (RB n't) (VP (VB hit))),VP&VP&
+10220100928,say,(VP (VB say) (NP (NN metronome))),VP&NP&
+10220100938,dress,(VP (TO to) (VP (VB get) (VP (VBN dressed)))),VP&VP&VP&
+10220100942,dress,(VP (VB let) (S (NP (POS 's)) (VP (VB get) (S (NP (PRP you)) (VP (VBN dressed)))))),VP&S&NP&VP&S&NP&VP&
+10220100947,like,(VP (VBP like) (NP (NNS clothes))),VP&NP&
+10220100949,look,(VP (VB look)),VP&
+10220100960,call,(VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP$ her)) (NP-TMP (DT this) (NN morning)))))),VP&S&VP&VP&NP&NP-TMP&
+10220100961,call,(VP (VBP want) (S (VP (TO to) (VP (VB call) (NP (PRP$ her)) (ADVP (RB now)))))),VP&S&VP&VP&NP&ADVP&
+10220100962,call,(VP (VB tell) (NP (PRP her)) (SBAR (S (NP (PRP you)) (VP (VBD were) (VP (VBG reading) (NP (NNS stories)) (NP-TMP (JJ last) (NN night)) (PP (TO to) (NP (NP (NNP Zevy)) (SBAR (IN so) (S (NP (PRP you)) (VP (MD could) (RB n't) (VP (VB call) (NP (PRP her))))))))))))),VP&NP&SBAR&S&NP&VP&VP&NP&NP-TMP&PP&NP&NP&SBAR&S&NP&VP&VP&NP&
+10220100972,say,(VP (VB say) (NP (NN doll))),VP&NP&
+10220100985,think,(VP (VBP think) (ADVP (RB so) (RB too))),VP&ADVP&
+10220100998,know,(VP (VBP know) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (DT the) (NN dolphin) (NN show)))))),VP&SBAR&S&NP&VP&NP&
+10220101003,come,(VP (VBZ comes) (NP (DT the) (NN puppet))),VP&NP&
+10220101008,look,(VP (VB look)),VP&
+10220101012,look,(VP (VB look)),VP&
+10220101016,dress,(VP (VBP want) (ADJP (JJ daddy) (S (VP (TO to) (VP (VB dress) (NP (PRP you))))))),VP&ADJP&S&VP&VP&NP&
+10220101018,dress,(VP (VBP want) (S (NP (PRP me)) (VP (TO to) (VP (VB dress) (NP (PRP you)))))),VP&S&NP&VP&VP&NP&
+10220101019,dress,(VP (VBP want) (S (NP (PRP me)) (VP (TO to) (VP (VB dress) (NP (PRP you)))))),VP&S&NP&VP&VP&NP&
+10220101021,put,(VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB put) (PRT (RP on)) (NP (DT some) (NNS clothes))))))),VP&NP&S&VP&VP&PRT&NP&
+10220101051,go,(VP (VBZ is) (SBAR (IN that) (X (NP (DT the) (CD one)) (SBAR (WHNP (WDT that)) (S (VP (VBZ goes) (ADVP (RB blah)))))))),VP&SBAR&X&NP&SBAR&WHNP&S&VP&ADVP&
+10220101059,look,(VP (VB look)),VP&
+10220101089,come,(VP (VB come) (PRT (RP down))),VP&PRT&
+10220101090,turn,(VP (VB turn) (PRT (RP around))),VP&PRT&
+10220101093,turn,(VP (VB turn) (PRT (RP around))),VP&PRT&
+10220101094,go,(VP (VB go) (PRT (RP down))),VP&PRT&
+10220101096,teach,(VP (VBP do) (RB n't) (VP (VB teach) (S (NP (PRP$ her)) (NP (WDT that))))),VP&VP&S&NP&NP&
+10220101097,go,(VP (VP (VB turn) (PRT (RP around))) (CC and) (VP (VB go) (PP (IN on) (NP (PRP$ your) (NN tummy))))),VP&VP&PRT&VP&PP&NP&
+10220101100,turn,(VP (VB turn) (PRT (RP around))),VP&PRT&
+10220101101,go,(VP (VB go) (PP (IN like) (NP (DT this)))),VP&PP&NP&
+10220101105,go,(VP (VB go) (ADVP (RB around))),VP&ADVP&
+10220101108,go,(VP (VBZ 's) (SBAR (WHADVP (WRB how)) (S (NP (PRP you)) (VP (VBP go) (ADVP (RB down)))))),VP&SBAR&WHADVP&S&NP&VP&ADVP&
+10220101110,go,(VP (VB turn) (PRT (RP around)) (S (VP (TO to) (VP (VB go) (ADVP (RB down)))))),VP&PRT&S&VP&VP&ADVP&
+10220101113,go,(VP (VBZ is) (RB n't) (ADJP (JJ safe)) (SBAR (IN for) (S (NP (PRP her)) (VP (TO to) (VP (VB go) (PRT (RP down)) (NP (DT that) (NN way))))))),VP&ADJP&SBAR&S&NP&VP&VP&PRT&NP&
+10220101115,go,(VP (VBP want) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NP (DT the) (NN bath)) (CC +) (NP (NN room)))))))),VP&S&VP&VP&PP&NP&NP&NP&
+10220101116,go,(VP (VBP want) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NP (DT the) (NN bath)) (CC +) (NP (NN room)))))))),VP&S&VP&VP&PP&NP&NP&NP&
+10220101119,please,(VP (VB please) (VP (VB take) (NP (PRP$ your) (NNS shoes)) (ADVP (RB away)))),VP&VP&NP&ADVP&
+10220101121,leave,(VP (MD ca) (RB n't) (VP (VB leave) (S (NP (PRP them)) (VP (VBG laying) (ADVP (RB around)))))),VP&VP&S&NP&VP&ADVP&
+10220101126,come,(VP (VBN come) (PP (IN on))),VP&PP&
+10220101127,go,(VP (VB let) (S (NP (POS 's)) (VP (VB go) (ADVP (RB away)) (PP (IN from) (NP (DT the) (NNS stairs)))))),VP&S&NP&VP&ADVP&PP&NP&
+10220101129,go,(VP (VBP 're) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (PRT (RP down)) (NP (DT the) (JJ proper) (NN way))))))),VP&VP&S&VP&VP&PRT&NP&
+10220101130,go,(VP (VBP are) (RB not) (VP (VBG going) (S (VP (TO to) (VP (VB go) (PRT (RP down)) (NP (PRP them))))))),VP&VP&S&VP&VP&PRT&NP&
+10220101139,go,(VP (VBP go)),VP&
+10220101141,go,(VP (MD can) (RB not) (VP (VB go) (ADVP (JJ outside)) (PP (IN in) (NP (PRP$ your) (NNS pajamas))))),VP&VP&ADVP&PP&NP&
+10220101142,dress,(VP (MD 'll) (VP (VB get) (S (NP (PRP you)) (VP (VBN dressed) (PP (IN in) (NP (CD one) (NN minute))))))),VP&VP&S&NP&VP&PP&NP&
+10220101143,come,(VP (VBN come) (PP (IN in) (NP (DT the) (NN den)))),VP&PP&NP&
+10220101146,go,(VP (MD will) (RB not) (VP (VB be) (VP (VBN allowed) (S (VP (TO to) (VP (VB go) (PRT (RP out)) (PP (IN in) (NP (PRP$ your) (NNS pajamas))))))))),VP&VP&VP&S&VP&VP&PRT&PP&NP&
+10220101149,dress,(VP (MD will) (VP (VB get) (S (NP (PRP you)) (VP (VBN dressed))))),VP&VP&S&NP&VP&
+10220101150,take,(VP (MD will) (VP (VB take) (NP (PRP me)) (NP (CD one) (NN minute)))),VP&VP&NP&NP&
+10220101151,put,(VP (VBP do) (RB n't) (VP (VB put) (NP (NP (DT that)) (PP (IN on) (NP (PRP$ your) (NN head)))))),VP&VP&NP&NP&PP&NP&
+10220101153,point,(VP (VBZ 's) (NP (NP (DT no) (NN point)) (PP (IN in) (S (NP (PRP you)) (VP (VBG going)))))),VP&NP&NP&PP&S&NP&VP&
+10220101155,go,(VP (MD may) (RB not) (VP (VB go) (PRT (RP out)))),VP&VP&PRT&
+10220101156,dress,(VP (MD will) (VP (VB take) (NP (PRP me)) (NP-TMP (CD one) (NN minute)) (S (VP (TO to) (VP (VB get) (S (NP (PRP you)) (VP (VBN dressed)))))))),VP&VP&NP&NP-TMP&S&VP&VP&S&NP&VP&
+10220101157,clean,(VP (`` ``) (VB clean) (ADVP (RP up))),VP&ADVP&
+10220101159,clean,(VP (`` ``) (VB clean) (ADVP (RP up))),VP&ADVP&
+10220101170,go,(VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (PRT (RP out))))))))),VP&SBAR&S&NP&VP&S&VP&VP&PRT&
+10220101172,go,(VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB go) (ADVP (IN outside) (PP (IN for) (NP-TMP (DT a) (JJ few) (NNS minutes))))))))))),VP&SBAR&S&NP&VP&S&VP&VP&ADVP&PP&NP-TMP&
+10220101173,come,(VP (VBN come) (S (VP (TO to) (VP (VB mama))))),VP&S&VP&VP&
+10220101179,bump,(VP (VB bump) (NP (PRP$ her) (NN nosie))),VP&NP&
+10220101183,say,(VP (VB say) (NP (NN squirrel))),VP&NP&
+10220101184,say,(VP (VB say) (NP (NN squirrel))),VP&NP&
+10220101200,stand,(VP (VB stand) (PRT (RP up)) (NP (RB now))),VP&PRT&NP&
+10220101203,go,(VP (VBP do) (RB n't) (VP (VB go) (NP (NP (NN bye)) (CC +) (NP (NN bye))))),VP&VP&NP&NP&NP&
+10220101206,see,(VP (MD can) (VP (VB see) (NP (PRP you)))),VP&VP&NP&
+10220101212,say,(VP (VB say) (NP (NNP Sam))),VP&NP&
+10220101218,near,(VP (VBP do) (RB n't) (VP (VB get) (PP (IN near) (NP (PRP it))))),VP&VP&PP&NP&
+10220101219,get,(VP (MD can) (RB not) (VP (VB get) (PP (IN near) (NP (DT this))))),VP&VP&PP&NP&
+10220101220,say,(VP (VB say) (ADJP (JJ hot))),VP&ADJP&
+10220101224,say,(VP (VB say) (NP (JJ good) (NN girl))),VP&NP&
+10220101229,call,(VP (VB call) (NP (NNP Zevy))),VP&NP&
+10220101230,come,(VP (VB tell) (S (NP (NNP Zevy)) (VP (TO to) (VP (VB come) (S (NP (NN home)) (NP (CC +))))))),VP&S&NP&VP&VP&S&NP&NP&
+10220101233,say,(VP (VB say) (NP (NNP Zevy))),VP&NP&
+10220101235,protect,(VP (VBZ is) (ADJP (RB so) (JJ loose)) (SBAR (IN that) (IN if) (S (NP (PRP you)) (VP (VBD fell) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB do) (NP (NN nothing)) (S (VP (TO to) (VP (VB protect) (NP (PRP you))))))))))))),VP&ADJP&SBAR&S&NP&VP&SBAR&S&NP&VP&VP&NP&S&VP&VP&NP&
+10220101237,protect,(VP (MD can) (VP (VB protect) (NP (PRP$ your) (NN head)))),VP&VP&NP&
+10220101242,wait,(VP (VB wait) (NP (CD one) (NN minute))),VP&NP&
+10220200023,stand,(VP (VB stand) (PRT (RP up))),VP&PRT&
+10220200025,stand,(VP (VB stand) (PRT (RP up)) (NP (PRP you) (JJ silly) (NN girl))),VP&PRT&NP&
+10220200031,like,(VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB read) (NP (PRP$ our) (NNS books)) (SBAR (IN like) (S (NP (PRP we)) (ADVP (RB normally)) (VP (VB do))))))))))),VP&SBAR&S&NP&VP&S&VP&VP&NP&SBAR&S&NP&ADVP&VP&
+10220200038,turn,(VP (VB turn) (NP (PRP it))),VP&NP&
+10220200039,turn,(VP (VB turn) (PRT (RP off)) (NP (DT the) (NN tv))),VP&PRT&NP&
+10220200061,tell,(VP (VBP tell) (NP (PRP me))),VP&NP&
+10220200075,know,(VP (VBP do) (RB n't) (VP (VB know) (SBAR (WHNP (WP who)) (S (NP (DT that)) (VP (VBZ is)))))),VP&VP&SBAR&WHNP&S&NP&VP&
+10220200086,make,(VP (VB make) (S (NP (NN peek)) (NP (CC +) (NP (DT a)) (CC +) (NP (NN boo))))),VP&S&NP&NP&NP&NP&
+10220200097,say,(VP (VB say) (NP (NN yay)) (PP (IN for) (NP (NNP Anielle)))),VP&NP&PP&NP&
+10220200098,know,(VP (VBP know) (NP (NNP Anielle))),VP&NP&
+10220200099,turn,(VP (VB turn) (NP (PRP it)) (PRT (RP down))),VP&NP&PRT&
+10220200104,see,(VP (VBP see) (NP (NP (DT a) (NN picture)) (PP (IN of) (NP (NP (NNP Zoe)) (PP (IN in) (NP (RB here))))))),VP&NP&NP&PP&NP&NP&PP&NP&
+10220200107,look,(VP (VB look) (PP (IN for) (NP (NNP Zoe)))),VP&PP&NP&
+10220200116,dance,(VP (VB do) (SBAR (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB dance) (PP (TO to) (NP (PRP it)))))))))),VP&SBAR&S&NP&VP&S&VP&VP&PP&NP&
+10220200119,harmonize,(VP (VBP harmonize) (ADVP (RB well))),VP&ADVP&
+10220200120,dance,(VP (VBP want) (S (VP (TO to) (VP (VB see) (S (NP (PRP you)) (VP (VB dance))))))),VP&S&VP&VP&S&NP&VP&
+10220200143,say,(VP (VB say)),VP&
+10220200152,dance,(VP (VB want) (S (VP (TO to) (VP (VB dance))))),VP&S&VP&VP&
+10220200153,dance,(VP (VB let) (S (NP (POS 's)) (VP (NN dance)))),VP&S&NP&VP&
+10220200157,find,(VP (VB find) (NP (NP (DT that) (NN book)) (PP (IN of) (NP (NNS animals))))),VP&NP&NP&PP&NP&
+10220200160,find,(VP (VB let) (S (NP (POS 's)) (VP (VB find) (NP (NP (DT the) (NN book)) (PP (IN of) (NP (NNS animals))))))),VP&S&NP&VP&NP&NP&PP&NP&
+10220200162,leave,(VP (VBZ leaves) (S (NP (PRP it)) (ADJP (RB too) (JJ loud)))),VP&S&NP&ADJP&
+10220200199,see,(VP (VB do) (S (NP (PRP you)) (VP (VB see) (NP (DT a) (NN lady) (CC +) (NN bug))))),VP&S&NP&VP&NP&
+10220200203,say,(VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (DT a) (NN seal)) (VP (VBZ says))))),VP&SBAR&WHNP&S&NP&VP&
+10220200206,know,(VP (VB do) (S (NP (PRP you)) (VP (VB know) (NP (DT a) (NN horse))))),VP&S&NP&VP&NP&
+10220200209,know,(VP (VBP do) (RB n't) (VP (VB know))),VP&VP&
